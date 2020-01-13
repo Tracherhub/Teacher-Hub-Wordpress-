@@ -1,0 +1,5378 @@
+# Copyright (C) 2016 ApusWP
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Workup 1.0.5\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/workup\n"
+"POT-Creation-Date: 2019-11-14 07:18:53+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: 404.php:38
+msgid "Go To Home Page"
+msgstr ""
+
+#: comments.php:25 template-posts/single/inner.php:33
+msgid "0 Comments"
+msgstr ""
+
+#: comments.php:25 template-posts/single/inner.php:33
+msgid "1 Comment"
+msgstr ""
+
+#: comments.php:25 template-posts/single/inner.php:33
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:39
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:45
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:47 comments.php:48
+msgid "Comment"
+msgstr ""
+
+#: comments.php:54 comments.php:55
+#: inc/vendors/elementor/widgets/testimonials.php:58
+#: template-jobs/single-candidate/reviews.php:44
+#: template-jobs/single-employer/reviews.php:43
+#: woocommerce/single-product-reviews.php:70
+msgid "Name"
+msgstr ""
+
+#: comments.php:58 comments.php:59
+#: template-jobs/single-candidate/reviews.php:46
+#: template-jobs/single-employer/reviews.php:45
+#: woocommerce/single-product-reviews.php:72
+msgid "Email"
+msgstr ""
+
+#: comments.php:62
+msgid "Website"
+msgstr ""
+
+#: comments.php:66
+msgid "Submit Comment"
+msgstr ""
+
+#: content-search.php:57 template-posts/loop/inner-grid.php:36
+#: template-posts/loop/inner-list.php:46
+msgid "Continue..."
+msgstr ""
+
+#: footer.php:28
+msgid "&copy; %s - Workup. All Rights Reserved. <br/> Powered by <a href=\"//themeforest.net/user/apuswp\">ApusWP</a>"
+msgstr ""
+
+#: functions.php:77
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:78
+msgid "Employer Menu"
+msgstr ""
+
+#: functions.php:79
+msgid "Candidate Menu"
+msgstr ""
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+
+#: functions.php:148
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:149
+msgctxt "Josefin Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:150
+msgctxt "Poppins Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:250
+msgid "Days"
+msgstr ""
+
+#: functions.php:251
+msgid "Hrs"
+msgstr ""
+
+#: functions.php:252
+msgid "Mins"
+msgstr ""
+
+#: functions.php:253
+msgid "Secs"
+msgstr ""
+
+#: functions.php:276
+msgid "Previous"
+msgstr ""
+
+#: functions.php:277 inc/functions-frontend.php:506
+msgid "Next"
+msgstr ""
+
+#: functions.php:357
+msgid "Sidebar Default"
+msgstr ""
+
+#: functions.php:359
+msgid "Add widgets here to appear in your Sidebar."
+msgstr ""
+
+#: functions.php:367
+msgid "Jobs filter sidebar"
+msgstr ""
+
+#: functions.php:369 functions.php:379 functions.php:389 functions.php:399
+#: functions.php:409 functions.php:419 functions.php:429 functions.php:439
+#: functions.php:449
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: functions.php:377
+msgid "Jobs filter top sidebar"
+msgstr ""
+
+#: functions.php:387
+msgid "Job single sidebar"
+msgstr ""
+
+#: functions.php:397
+msgid "Employers filter sidebar"
+msgstr ""
+
+#: functions.php:407
+msgid "Employer single sidebar"
+msgstr ""
+
+#: functions.php:417
+msgid "Candidates filter sidebar"
+msgstr ""
+
+#: functions.php:427
+msgid "Candidate single sidebar"
+msgstr ""
+
+#: functions.php:437
+msgid "User Profile sidebar"
+msgstr ""
+
+#: functions.php:447
+msgid "Blog sidebar"
+msgstr ""
+
+#: functions.php:462
+msgid "Apus Framework For Themes"
+msgstr ""
+
+#: functions.php:469
+msgid "Elementor Page Builder"
+msgstr ""
+
+#: functions.php:475
+msgid "Cmb2"
+msgstr ""
+
+#: functions.php:481
+msgid "MailChimp for WordPress"
+msgstr ""
+
+#: functions.php:487
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:494
+msgid "Woocommerce"
+msgstr ""
+
+#: functions.php:501
+msgid "WP Job Board"
+msgstr ""
+
+#: functions.php:508
+msgid "WP Job Board - WooCommerce Paid Listings"
+msgstr ""
+
+#: functions.php:515
+msgid "WP Private Message"
+msgstr ""
+
+#: functions.php:522
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/classes/megamenu.php:116 inc/classes/mobilemenu.php:106
+msgid "New"
+msgstr ""
+
+#: inc/classes/megamenu.php:120 inc/classes/mobilemenu.php:110
+msgid "Hot"
+msgstr ""
+
+#: inc/classes/megamenu.php:124 inc/classes/mobilemenu.php:114
+#: inc/template-tags.php:49 inc/vendors/wp-job-board/functions.php:339
+msgid "Featured"
+msgstr ""
+
+#: inc/customizer.php:32
+msgid "Base Color Scheme"
+msgstr ""
+
+#: inc/customizer.php:47
+msgid "Header and Sidebar Text Color"
+msgstr ""
+
+#: inc/customizer.php:48 inc/customizer.php:64 inc/customizer.php:69
+msgid "Applied to the header on small screens and the sidebar on wide screens."
+msgstr ""
+
+#: inc/customizer.php:63
+msgid "Header and Sidebar Background Color"
+msgstr ""
+
+#: inc/customizer.php:118 inc/vendors/cmb2/page.php:72
+#: inc/vendors/cmb2/page.php:116 inc/vendors/cmb2/page.php:157
+#: inc/vendors/cmb2/page.php:232 inc/vendors/elementor/widgets/brands.php:93
+#: inc/vendors/elementor/widgets/heading.php:150
+#: inc/vendors/elementor/widgets/nav_menu.php:68
+#: inc/vendors/elementor/widgets/popup_video.php:78
+#: inc/vendors/elementor/widgets/posts.php:58
+#: inc/vendors/elementor/widgets/posts.php:78
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:80
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:100
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:91
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:111
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:79
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:99
+#: inc/vendors/redux-framework/redux-config.php:180
+#: inc/vendors/woocommerce/functions-redux-configs.php:40
+#: inc/vendors/wp-job-board/functions-redux-configs.php:33
+#: inc/vendors/wp-job-board/functions-redux-configs.php:106
+#: inc/vendors/wp-job-board/functions-redux-configs.php:225
+#: inc/vendors/wp-job-board/functions-redux-configs.php:275
+#: inc/vendors/wp-job-board/functions-redux-configs.php:408
+#: inc/vendors/wp-job-board/functions-redux-configs.php:456
+#: inc/widgets/custom_menu.php:40
+#: template-jobs/misc/candidates-shortlist.php:28
+#: template-jobs/misc/job-applicants.php:39
+#: template-jobs/misc/jobs-applied.php:28
+#: template-jobs/misc/jobs-shortlist.php:29
+#: template-jobs/misc/my-candidates-alerts.php:29
+#: template-jobs/misc/my-following-employers.php:28
+#: template-jobs/misc/my-jobs-alerts.php:29
+#: template-jobs/submission/my-jobs.php:34
+msgid "Default"
+msgstr ""
+
+#: inc/customizer.php:129 inc/vendors/elementor/widgets/brands.php:94
+msgid "Dark"
+msgstr ""
+
+#: inc/customizer.php:140
+msgid "Yellow"
+msgstr ""
+
+#: inc/customizer.php:151
+msgid "Pink"
+msgstr ""
+
+#: inc/customizer.php:162
+msgid "Purple"
+msgstr ""
+
+#: inc/customizer.php:173
+msgid "Blue"
+msgstr ""
+
+#: inc/functions-frontend.php:37
+msgid " / By: "
+msgstr ""
+
+#: inc/functions-frontend.php:60
+msgid "by:"
+msgstr ""
+
+#: inc/functions-frontend.php:85
+msgid "0 comments"
+msgstr ""
+
+#: inc/functions-frontend.php:85
+msgid "1 comment"
+msgstr ""
+
+#: inc/functions-frontend.php:85
+msgid "% comments"
+msgstr ""
+
+#: inc/functions-frontend.php:97
+msgid "Tags: "
+msgstr ""
+
+#: inc/functions-frontend.php:156 inc/functions-frontend.php:158
+#: inc/functions-frontend.php:309
+msgid "The Blogs"
+msgstr ""
+
+#: inc/functions-frontend.php:169
+#: inc/vendors/redux-framework/redux-config.php:154
+#: inc/vendors/redux-framework/redux-config.php:268
+msgid "Blog"
+msgstr ""
+
+#: inc/functions-frontend.php:183
+msgid "Search results for \""
+msgstr ""
+
+#: inc/functions-frontend.php:185
+msgid "Posts tagged \""
+msgstr ""
+
+#: inc/functions-frontend.php:191 inc/functions-frontend.php:307
+msgid "Error 404"
+msgstr ""
+
+#: inc/functions-frontend.php:204 inc/samples/sample-data.php:10
+msgid "Home"
+msgstr ""
+
+#: inc/functions-frontend.php:240
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:26
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:26
+msgid "Jobs"
+msgstr ""
+
+#: inc/functions-frontend.php:246
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:26
+msgid "Employers"
+msgstr ""
+
+#: inc/functions-frontend.php:252
+msgid "Candidates"
+msgstr ""
+
+#: inc/functions-frontend.php:299
+msgid "Search results for \"%s\""
+msgstr ""
+
+#: inc/functions-frontend.php:301
+msgid "Posts tagged \"%s\""
+msgstr ""
+
+#: inc/functions-frontend.php:305
+msgid "Articles posted by "
+msgstr ""
+
+#: inc/functions-frontend.php:461
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/functions-frontend.php:483
+msgid "Post navigation"
+msgstr ""
+
+#: inc/functions-frontend.php:487
+msgid "Published In"
+msgstr ""
+
+#: inc/functions-frontend.php:489
+msgid "Previous Post"
+msgstr ""
+
+#: inc/functions-frontend.php:490
+msgid "Next Post"
+msgstr ""
+
+#: inc/functions-frontend.php:505
+msgid "Prev"
+msgstr ""
+
+#: inc/functions-frontend.php:604 inc/functions-frontend.php:617
+msgid "Close"
+msgstr ""
+
+#: inc/functions-frontend.php:628 search.php:21
+msgid "Show Sidebar"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:337
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:339
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+
+#: inc/plugins/class-tgm-plugin-activation.php:377
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:382
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:387
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:393
+#: inc/plugins/class-tgm-plugin-activation.php:917
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+#: inc/plugins/class-tgm-plugin-activation.php:3670
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:394
+#: inc/plugins/class-tgm-plugin-activation.php:3249
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:395
+#: inc/plugins/class-tgm-plugin-activation.php:3042
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:397
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:399
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+
+#: inc/plugins/class-tgm-plugin-activation.php:401
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:403
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:725
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1024
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1027
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:1211
+#: inc/plugins/class-tgm-plugin-activation.php:3038
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+
+#: inc/plugins/class-tgm-plugin-activation.php:2072
+msgid "TGMPA v%s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2363
+msgid "Required"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2366
+msgid "Recommended"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2382
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2385
+msgid "External Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2388
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2405
+msgid "Not Installed"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2409
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2411
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:308
+msgid "Active"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2417
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2420
+msgid "Requires Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2423
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+
+#: inc/plugins/class-tgm-plugin-activation.php:2432
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2478
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2482
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2486
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+
+#: inc/plugins/class-tgm-plugin-activation.php:2490
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2572
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2580
+msgid "Installed version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2588
+msgid "Minimum required version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2600
+msgid "Available version:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2623
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2637
+msgid "Plugin"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2638
+msgid "Source"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2639
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:236
+msgid "Type"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2643
+msgid "Version"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2644
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:86
+#: template-jobs/submission/my-jobs.php:102
+#: woocommerce/myaccount/my-orders.php:36
+#: woocommerce/myaccount/my-orders.php:57
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/plugins/class-tgm-plugin-activation.php:2693
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/plugins/class-tgm-plugin-activation.php:2698
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+
+#: inc/plugins/class-tgm-plugin-activation.php:2704
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2774
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2807
+msgid "Install"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2813
+msgid "Update"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2816
+msgid "Activate"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2847
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2849
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2890
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2892
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:2998
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3024
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3248
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3588
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3591
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3593
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3597
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Show Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3599
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "Hide Details"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3600
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3602
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3605
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3607
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/plugins/class-tgm-plugin-activation.php:3608
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+
+#: inc/plugins/class-tgm-plugin-activation.php:3610
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/template-tags.php:23
+msgid "Comment navigation"
+msgstr ""
+
+#: inc/template-tags.php:26
+msgid "Older Comments"
+msgstr ""
+
+#: inc/template-tags.php:30
+msgid "Newer Comments"
+msgstr ""
+
+#: inc/template-tags.php:55
+msgctxt "Used before post format."
+msgid "Format"
+msgstr ""
+
+#: inc/template-tags.php:76
+msgctxt "Used before publish date."
+msgid "Posted on"
+msgstr ""
+
+#: inc/template-tags.php:85
+msgctxt "Used before post author name."
+msgid "Author"
+msgstr ""
+
+#: inc/template-tags.php:91 inc/template-tags.php:99
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:94
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr ""
+
+#: inc/template-tags.php:102
+msgctxt "Used before tag names."
+msgid "Tags"
+msgstr ""
+
+#: inc/template-tags.php:113
+msgctxt "Used before full size attachment link."
+msgid "Full size"
+msgstr ""
+
+#. translators: %s: post title
+
+#: inc/template-tags.php:123
+msgid "Leave a comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/template-tags.php:238
+msgid "/ By: "
+msgstr ""
+
+#. translators: %s: Name of current post
+
+#: inc/template-tags.php:274
+msgid "Continue reading %s"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:13 inc/vendors/cmb2/page.php:14
+#: inc/vendors/cmb2/page.php:19 inc/vendors/cmb2/page.php:33
+#: inc/vendors/cmb2/page.php:44 inc/vendors/cmb2/page.php:54
+#: inc/vendors/cmb2/page.php:71 inc/vendors/cmb2/page.php:97
+#: inc/vendors/cmb2/page.php:115 inc/vendors/cmb2/page.php:139
+#: inc/vendors/cmb2/page.php:156
+msgid "Global Setting"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:20 inc/vendors/redux-framework/redux-config.php:48
+msgid "1 Column"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:21 inc/vendors/redux-framework/redux-config.php:49
+msgid "2 Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:22 inc/vendors/redux-framework/redux-config.php:50
+msgid "3 Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:23 inc/vendors/redux-framework/redux-config.php:51
+msgid "4 Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:24 inc/vendors/redux-framework/redux-config.php:53
+msgid "6 Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:29
+#: inc/vendors/wp-job-board/functions-redux-configs.php:60
+msgid "Jobs Layout"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:34
+#: inc/vendors/woocommerce/functions-redux-configs.php:120
+#: inc/vendors/woocommerce/functions-redux-configs.php:121
+#: inc/vendors/wp-job-board/functions-redux-configs.php:63
+#: inc/vendors/wp-job-board/functions-redux-configs.php:295
+#: inc/vendors/wp-job-board/functions-redux-configs.php:296
+#: inc/vendors/wp-job-board/functions-redux-configs.php:476
+#: inc/vendors/wp-job-board/functions-redux-configs.php:477
+msgid "Main Content"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:35 inc/vendors/cmb2/page.php:181
+#: inc/vendors/woocommerce/functions-redux-configs.php:125
+#: inc/vendors/woocommerce/functions-redux-configs.php:126
+#: inc/vendors/wp-job-board/functions-redux-configs.php:64
+#: inc/vendors/wp-job-board/functions-redux-configs.php:300
+#: inc/vendors/wp-job-board/functions-redux-configs.php:301
+#: inc/vendors/wp-job-board/functions-redux-configs.php:481
+#: inc/vendors/wp-job-board/functions-redux-configs.php:482
+msgid "Left Sidebar - Main Content"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:36 inc/vendors/cmb2/page.php:182
+#: inc/vendors/woocommerce/functions-redux-configs.php:130
+#: inc/vendors/woocommerce/functions-redux-configs.php:131
+#: inc/vendors/wp-job-board/functions-redux-configs.php:65
+#: inc/vendors/wp-job-board/functions-redux-configs.php:305
+#: inc/vendors/wp-job-board/functions-redux-configs.php:306
+#: inc/vendors/wp-job-board/functions-redux-configs.php:486
+#: inc/vendors/wp-job-board/functions-redux-configs.php:487
+msgid "Main Content - Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:42
+msgid "Default Display Mode"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:45 inc/vendors/cmb2/page.php:98
+#: inc/vendors/cmb2/page.php:140 inc/vendors/elementor/widgets/brands.php:80
+#: inc/vendors/elementor/widgets/features_box.php:172
+#: inc/vendors/elementor/widgets/instagram.php:79
+#: inc/vendors/elementor/widgets/posts.php:106
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:127
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:154
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:165
+#: inc/vendors/woocommerce/functions-redux-configs.php:70
+#: inc/vendors/wp-job-board/functions-redux-configs.php:75
+#: inc/vendors/wp-job-board/functions-redux-configs.php:256
+#: inc/vendors/wp-job-board/functions-redux-configs.php:438
+msgid "Grid"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:46 inc/vendors/cmb2/page.php:99
+#: inc/vendors/cmb2/page.php:141 inc/vendors/elementor/widgets/posts.php:107
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:156
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:167
+#: inc/vendors/woocommerce/functions-redux-configs.php:71
+#: inc/vendors/wp-job-board/functions-redux-configs.php:76
+#: inc/vendors/wp-job-board/functions-redux-configs.php:257
+#: inc/vendors/wp-job-board/functions-redux-configs.php:439
+msgid "List"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:52
+#: inc/vendors/wp-job-board/functions-redux-configs.php:83
+msgid "Jobs item style"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:55
+#: inc/vendors/wp-job-board/functions-redux-configs.php:86
+msgid "List Default"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:56
+#: inc/vendors/wp-job-board/functions-redux-configs.php:87
+msgid "List V1"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:57
+#: inc/vendors/wp-job-board/functions-redux-configs.php:88
+msgid "List V2"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:63
+msgid "Grid Listing Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:69 inc/vendors/cmb2/page.php:113
+#: inc/vendors/cmb2/page.php:154
+#: inc/vendors/wp-job-board/functions-redux-configs.php:104
+#: inc/vendors/wp-job-board/functions-redux-configs.php:273
+#: inc/vendors/wp-job-board/functions-redux-configs.php:454
+msgid "Pagination Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:73 inc/vendors/cmb2/page.php:117
+#: inc/vendors/cmb2/page.php:158
+#: inc/vendors/wp-job-board/functions-redux-configs.php:107
+#: inc/vendors/wp-job-board/functions-redux-configs.php:276
+#: inc/vendors/wp-job-board/functions-redux-configs.php:457
+msgid "Load More Button"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:74 inc/vendors/cmb2/page.php:118
+#: inc/vendors/cmb2/page.php:159
+#: inc/vendors/wp-job-board/functions-redux-configs.php:108
+#: inc/vendors/wp-job-board/functions-redux-configs.php:277
+#: inc/vendors/wp-job-board/functions-redux-configs.php:458
+msgid "Infinite Scrolling"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:81
+#: inc/vendors/wp-job-board/functions-redux-configs.php:7
+msgid "Jobs Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:95
+#: inc/vendors/wp-job-board/functions-redux-configs.php:253
+msgid "Employers display mode"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:100
+#: inc/vendors/wp-job-board/functions-redux-configs.php:258
+msgid "Simple"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:106
+#: inc/vendors/wp-job-board/functions-redux-configs.php:265
+msgid "Employer Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:108
+msgid "Apply for display mode is grid and simple."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:124
+msgid "Employers Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:137
+#: inc/vendors/wp-job-board/functions-redux-configs.php:435
+msgid "Candidates display mode"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:147
+#: inc/vendors/wp-job-board/functions-redux-configs.php:446
+msgid "Candidate Columns"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:149
+msgid "Apply for display mode is grid."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:165
+msgid "Candidates Settings"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:176
+msgid "Select Layout"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:180
+msgid "Main Content Only"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:188
+#: inc/vendors/redux-framework/redux-config.php:220
+#: inc/vendors/redux-framework/redux-config.php:299
+#: inc/vendors/woocommerce/functions-redux-configs.php:109
+#: inc/vendors/woocommerce/functions-redux-configs.php:232
+#: inc/vendors/wp-job-board/functions-redux-configs.php:54
+#: inc/vendors/wp-job-board/functions-redux-configs.php:136
+#: inc/vendors/wp-job-board/functions-redux-configs.php:246
+#: inc/vendors/wp-job-board/functions-redux-configs.php:330
+#: inc/vendors/wp-job-board/functions-redux-configs.php:429
+#: inc/vendors/wp-job-board/functions-redux-configs.php:511
+msgid "Is Full Width?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:191 inc/vendors/cmb2/page.php:212
+#: inc/vendors/cmb2/page.php:251 inc/vendors/cmb2/page.php:262
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:206
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:218
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:246
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:258
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:198
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:213
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:226
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:241
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:237
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:252
+msgid "No"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:192 inc/vendors/cmb2/page.php:213
+#: inc/vendors/cmb2/page.php:252 inc/vendors/cmb2/page.php:263
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:204
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:216
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:244
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:256
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:197
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:212
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:225
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:240
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:236
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:251
+msgid "Yes"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:198
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:204
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:210
+msgid "Show Breadcrumb?"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:220
+msgid "Breadcrumb Background Color"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:225
+msgid "Breadcrumb Background Image"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:230
+msgid "Breadcrumb Style"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:233 inc/vendors/elementor/widgets/banner.php:167
+#: inc/vendors/elementor/widgets/countdown.php:143
+#: inc/vendors/elementor/widgets/features_box.php:159
+#: inc/vendors/elementor/widgets/instagram.php:120
+#: inc/vendors/elementor/widgets/mailchimp.php:48
+#: inc/vendors/redux-framework/redux-config.php:181
+#: inc/vendors/woocommerce/functions-redux-configs.php:41
+#: inc/vendors/wp-job-board/functions-redux-configs.php:34
+#: inc/vendors/wp-job-board/functions-redux-configs.php:226
+#: inc/vendors/wp-job-board/functions-redux-configs.php:409
+#: inc/widgets/socials.php:38
+msgid "Style 1"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:240
+#: inc/vendors/redux-framework/redux-config.php:104
+msgid "Header Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:241 inc/vendors/cmb2/page.php:249
+#: inc/vendors/redux-framework/redux-config.php:105
+msgid "Choose a header for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:248
+msgid "Header Transparent"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:259
+msgid "Header Fixed Top"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:260
+msgid "Choose a header position"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:270
+#: inc/vendors/redux-framework/redux-config.php:137
+msgid "Footer Layout Type"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:271
+#: inc/vendors/redux-framework/redux-config.php:138
+msgid "Choose a footer for your website."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:278
+msgid "Extra Class"
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:279
+msgid "If you wish to style particular content element differently, then use this field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: inc/vendors/cmb2/page.php:285
+msgid "Display Settings"
+msgstr ""
+
+#: inc/vendors/elementor/functions.php:33
+msgid "Workup Elements"
+msgstr ""
+
+#: inc/vendors/elementor/functions.php:41
+msgid "Workup Header Elements"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:16
+msgid "Apus Header Logo"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:28
+#: inc/vendors/elementor/header-widgets/primary_menu.php:28
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:25
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:26
+#: inc/vendors/elementor/widgets/achievements.php:92
+#: inc/vendors/elementor/widgets/banner.php:95
+#: inc/vendors/elementor/widgets/brands.php:28
+#: inc/vendors/elementor/widgets/call_to_action.php:28
+#: inc/vendors/elementor/widgets/countdown.php:53
+#: inc/vendors/elementor/widgets/features_box.php:114
+#: inc/vendors/elementor/widgets/popup_video.php:32
+#: inc/vendors/elementor/widgets/popup_video.php:48
+#: inc/vendors/elementor/widgets/social_links.php:32
+#: inc/vendors/elementor/widgets/testimonials.php:32
+#: inc/vendors/elementor/widgets/testimonials.php:41
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:28
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:28
+msgid "Content"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:36
+msgid "Main Logo"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:50
+msgid "Transparent Header Logo"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:73
+#: inc/vendors/elementor/header-widgets/primary_menu.php:36
+#: inc/vendors/elementor/widgets/achievements.php:116
+#: inc/vendors/elementor/widgets/countdown.php:71
+#: inc/vendors/elementor/widgets/features_box.php:180
+#: inc/vendors/elementor/widgets/heading.php:183
+#: inc/vendors/elementor/widgets/nav_menu.php:78
+#: inc/vendors/elementor/widgets/social_links.php:208
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:58
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:45
+msgid "Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:77
+#: inc/vendors/elementor/header-widgets/primary_menu.php:40
+#: inc/vendors/elementor/widgets/achievements.php:120
+#: inc/vendors/elementor/widgets/banner.php:59
+#: inc/vendors/elementor/widgets/banner.php:138
+#: inc/vendors/elementor/widgets/countdown.php:75
+#: inc/vendors/elementor/widgets/features_box.php:184
+#: inc/vendors/elementor/widgets/heading.php:187
+#: inc/vendors/elementor/widgets/nav_menu.php:82
+#: inc/vendors/elementor/widgets/social_links.php:212
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:62
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:49
+msgid "Left"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:81
+#: inc/vendors/elementor/header-widgets/primary_menu.php:44
+#: inc/vendors/elementor/widgets/achievements.php:124
+#: inc/vendors/elementor/widgets/banner.php:63
+#: inc/vendors/elementor/widgets/banner.php:142
+#: inc/vendors/elementor/widgets/countdown.php:79
+#: inc/vendors/elementor/widgets/features_box.php:188
+#: inc/vendors/elementor/widgets/heading.php:191
+#: inc/vendors/elementor/widgets/nav_menu.php:86
+#: inc/vendors/elementor/widgets/popup_video.php:79
+#: inc/vendors/elementor/widgets/social_links.php:216
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:66
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:53
+msgid "Center"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:85
+#: inc/vendors/elementor/header-widgets/primary_menu.php:48
+#: inc/vendors/elementor/widgets/achievements.php:128
+#: inc/vendors/elementor/widgets/banner.php:67
+#: inc/vendors/elementor/widgets/banner.php:146
+#: inc/vendors/elementor/widgets/countdown.php:83
+#: inc/vendors/elementor/widgets/features_box.php:192
+#: inc/vendors/elementor/widgets/heading.php:195
+#: inc/vendors/elementor/widgets/nav_menu.php:90
+#: inc/vendors/elementor/widgets/social_links.php:220
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:70
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:57
+msgid "Right"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:98
+#: inc/vendors/elementor/header-widgets/primary_menu.php:61
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:66
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:43
+#: inc/vendors/elementor/widgets/achievements.php:146
+#: inc/vendors/elementor/widgets/banner.php:191
+#: inc/vendors/elementor/widgets/banner_account.php:104
+#: inc/vendors/elementor/widgets/brands.php:114
+#: inc/vendors/elementor/widgets/call_to_action.php:94
+#: inc/vendors/elementor/widgets/countdown.php:154
+#: inc/vendors/elementor/widgets/features_box.php:210
+#: inc/vendors/elementor/widgets/instagram.php:130
+#: inc/vendors/elementor/widgets/mailchimp.php:59
+#: inc/vendors/elementor/widgets/nav_menu.php:108
+#: inc/vendors/elementor/widgets/popup_video.php:88
+#: inc/vendors/elementor/widgets/posts.php:151
+#: inc/vendors/elementor/widgets/revslider.php:54
+#: inc/vendors/elementor/widgets/social_links.php:99
+#: inc/vendors/elementor/widgets/team.php:116
+#: inc/vendors/elementor/widgets/testimonials.php:133
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:72
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:225
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:253
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:282
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:112
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:49
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:36
+msgid "Extra class name"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/logo.php:100
+#: inc/vendors/elementor/header-widgets/primary_menu.php:63
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:68
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:45
+#: inc/vendors/elementor/widgets/achievements.php:148
+#: inc/vendors/elementor/widgets/banner.php:193
+#: inc/vendors/elementor/widgets/banner_account.php:106
+#: inc/vendors/elementor/widgets/brands.php:116
+#: inc/vendors/elementor/widgets/call_to_action.php:96
+#: inc/vendors/elementor/widgets/countdown.php:156
+#: inc/vendors/elementor/widgets/features_box.php:212
+#: inc/vendors/elementor/widgets/instagram.php:132
+#: inc/vendors/elementor/widgets/mailchimp.php:61
+#: inc/vendors/elementor/widgets/nav_menu.php:110
+#: inc/vendors/elementor/widgets/popup_video.php:90
+#: inc/vendors/elementor/widgets/posts.php:153
+#: inc/vendors/elementor/widgets/revslider.php:56
+#: inc/vendors/elementor/widgets/social_links.php:101
+#: inc/vendors/elementor/widgets/team.php:118
+#: inc/vendors/elementor/widgets/testimonials.php:135
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:74
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:227
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:255
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:284
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:114
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:51
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:38
+msgid "If you wish to style particular content element differently, please add a class name to this field and refer to it in your custom CSS file."
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:16
+msgid "Apus Header Primary Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:73
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:34
+#: inc/vendors/elementor/widgets/achievements.php:82
+#: inc/vendors/elementor/widgets/banner_account.php:36
+#: inc/vendors/elementor/widgets/brands.php:37
+#: inc/vendors/elementor/widgets/call_to_action.php:36
+#: inc/vendors/elementor/widgets/countdown.php:36
+#: inc/vendors/elementor/widgets/heading.php:101
+#: inc/vendors/elementor/widgets/heading.php:108
+#: inc/vendors/elementor/widgets/heading.php:224
+#: inc/vendors/elementor/widgets/instagram.php:40
+#: inc/vendors/elementor/widgets/mailchimp.php:36
+#: inc/vendors/elementor/widgets/nav_menu.php:46
+#: inc/vendors/elementor/widgets/nav_menu.php:121
+#: inc/vendors/elementor/widgets/popup_video.php:40
+#: inc/vendors/elementor/widgets/posts.php:34
+#: inc/vendors/elementor/widgets/posts.php:62
+#: inc/vendors/elementor/widgets/social_links.php:40
+#: inc/vendors/elementor/widgets/social_links.php:110
+#: inc/vendors/elementor/widgets/team.php:128
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:34
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:34
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:84
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:34
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:95
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:83
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:34
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:123
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:72
+#: inc/vendors/redux-framework/redux-config.php:366
+#: inc/widgets/job-filter-horizontal.php:51
+#: template-jobs/misc/my-candidates-alerts.php:61
+#: template-jobs/misc/my-jobs-alerts.php:59
+msgid "Title"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:80
+msgid "Effect Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:83
+msgid "Effect 1"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:84
+msgid "Effect 2"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:85
+msgid "Effect 3"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:94
+msgid "Padding Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:105
+msgid "Color Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:116
+msgid "Color Hover Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:127
+msgid "Color Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:138
+msgid "Color Hover Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/header-widgets/primary_menu.php:149
+msgid "Background Color Dropdown Menu"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:14
+msgid "Apus Packages"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:32
+msgid "Packages Type"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:35
+msgid "Job Package"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:36
+msgid "CV Package"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:37
+msgid "Contact Package"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:38
+msgid "Canidate Package"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:39
+msgid "Resume Package"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:47
+msgid "Number Product"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:50
+msgid "Number Product to display"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:57
+#: inc/vendors/elementor/widgets/brands.php:103
+#: inc/vendors/elementor/widgets/features_box.php:146
+#: inc/vendors/elementor/widgets/instagram.php:67
+#: inc/vendors/elementor/widgets/posts.php:89
+#: inc/vendors/elementor/widgets/testimonials.php:103
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:137
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:165
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:176
+msgid "Columns"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:76
+#: inc/vendors/elementor/widgets/achievements.php:158
+#: inc/vendors/elementor/widgets/banner.php:164
+#: inc/vendors/elementor/widgets/brands.php:90
+#: inc/vendors/elementor/widgets/countdown.php:140
+#: inc/vendors/elementor/widgets/countdown.php:165
+#: inc/vendors/elementor/widgets/features_box.php:156
+#: inc/vendors/elementor/widgets/features_box.php:222
+#: inc/vendors/elementor/widgets/instagram.php:117
+#: inc/vendors/elementor/widgets/instagram.php:144
+#: inc/vendors/elementor/widgets/mailchimp.php:45
+#: inc/vendors/elementor/widgets/nav_menu.php:65
+#: inc/vendors/elementor/widgets/popup_video.php:75
+#: inc/vendors/elementor/widgets/social_links.php:86
+msgid "Style"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:84
+msgid "Background for Highlight"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/packages.php:123
+#: template-paid-listings/cv-packages.php:39
+#: template-paid-listings/packages.php:36
+#: template-paid-listings/resume-packages.php:39
+msgid "Free"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:15
+msgid "Apus User Packages"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:69
+msgid "Please login with \"Employer\" to see this page."
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:81
+#: inc/vendors/elementor/widgets/posts.php:60
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:82
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:93
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:81
+msgid "ID"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:82
+msgid "Package"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:83
+msgid "Package Type"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:84
+msgid "Package Info"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:125
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:152
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:179
+msgid "CV Count:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:129
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:156
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:183
+msgid "Expiry Time:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:130
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:157
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:184
+msgid "%d Day"
+msgid_plural "%d Days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:133
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:160
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:187
+msgid "CV Limit:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:200
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:240
+msgid "Urgent:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:212
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:252
+msgid "Featured:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:224
+msgid "Resume Duration:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:264
+msgid "Posted:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:268
+msgid "Limit Posts:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:272
+msgid "Listing Duration:"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:306
+msgid "Finished"
+msgstr ""
+
+#: inc/vendors/elementor/wc-paid-listings-widgets/user_packages.php:319
+msgid "Don't have any packages"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:16
+msgid "Apus Achievements"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:32
+msgid "Achievements"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:40
+#: inc/vendors/elementor/widgets/features_box.php:42
+msgid "Image or Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:43
+#: inc/vendors/elementor/widgets/achievements.php:53
+#: inc/vendors/elementor/widgets/features_box.php:45
+#: inc/vendors/elementor/widgets/features_box.php:55
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:85
+msgid "Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:44
+#: inc/vendors/elementor/widgets/banner.php:46
+#: inc/vendors/elementor/widgets/brands.php:149
+#: inc/vendors/elementor/widgets/brands.php:168
+#: inc/vendors/elementor/widgets/features_box.php:46
+#: inc/vendors/elementor/widgets/team.php:88
+#: template-jobs/single-candidate/portfolios.php:20
+#: template-jobs/single-employer/members.php:20
+#: template-jobs/single-employer/profile-photos.php:20
+#: woocommerce/cart/cart.php:29
+msgid "Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:65
+#: inc/vendors/elementor/widgets/features_box.php:67
+#: inc/vendors/elementor/widgets/testimonials.php:50
+msgid "Choose Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:84
+#: inc/vendors/elementor/widgets/features_box.php:106
+msgid "This is the heading"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:85
+#: inc/vendors/elementor/widgets/features_box.php:107
+#: inc/vendors/elementor/widgets/heading.php:113
+msgid "Enter your title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:94
+#: inc/vendors/elementor/widgets/features_box.php:116
+msgid "Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:95
+#: inc/vendors/elementor/widgets/features_box.php:117
+msgid "Enter your description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:105
+#: inc/vendors/elementor/widgets/features_box.php:127
+msgid "Link to"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:107
+#: inc/vendors/elementor/widgets/features_box.php:129
+#: inc/vendors/elementor/widgets/testimonials.php:87
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:132
+#: inc/vendors/elementor/widgets/banner.php:71
+#: inc/vendors/elementor/widgets/banner.php:150
+#: inc/vendors/elementor/widgets/countdown.php:87
+#: inc/vendors/elementor/widgets/features_box.php:196
+#: inc/vendors/elementor/widgets/heading.php:199
+#: inc/vendors/elementor/widgets/nav_menu.php:94
+#: inc/vendors/elementor/widgets/social_links.php:224
+msgid "Justified"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:165
+#: inc/vendors/elementor/widgets/features_box.php:282
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:92
+msgid "Icon Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:177
+msgid "Icon Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:186
+#: inc/vendors/elementor/widgets/call_to_action.php:116
+#: inc/vendors/elementor/widgets/countdown.php:173
+#: inc/vendors/elementor/widgets/features_box.php:230
+#: inc/vendors/elementor/widgets/instagram.php:151
+#: inc/vendors/elementor/widgets/mailchimp.php:78
+#: inc/vendors/elementor/widgets/nav_menu.php:129
+#: inc/vendors/elementor/widgets/popup_video.php:108
+#: inc/vendors/elementor/widgets/posts.php:172
+#: inc/vendors/elementor/widgets/social_links.php:118
+#: inc/vendors/elementor/widgets/testimonials.php:153
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:174
+msgid "Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:198
+#: inc/vendors/elementor/widgets/call_to_action.php:128
+#: inc/vendors/elementor/widgets/countdown.php:185
+#: inc/vendors/elementor/widgets/features_box.php:243
+#: inc/vendors/elementor/widgets/instagram.php:163
+#: inc/vendors/elementor/widgets/mailchimp.php:90
+#: inc/vendors/elementor/widgets/nav_menu.php:141
+#: inc/vendors/elementor/widgets/popup_video.php:120
+#: inc/vendors/elementor/widgets/posts.php:184
+#: inc/vendors/elementor/widgets/social_links.php:130
+#: inc/vendors/elementor/widgets/testimonials.php:165
+msgid "Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:207
+#: inc/vendors/elementor/widgets/call_to_action.php:137
+#: inc/vendors/elementor/widgets/countdown.php:194
+#: inc/vendors/elementor/widgets/features_box.php:252
+#: inc/vendors/elementor/widgets/popup_video.php:129
+msgid "Description Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/achievements.php:219
+#: inc/vendors/elementor/widgets/call_to_action.php:149
+#: inc/vendors/elementor/widgets/countdown.php:206
+#: inc/vendors/elementor/widgets/features_box.php:264
+#: inc/vendors/elementor/widgets/popup_video.php:141
+msgid "Description Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:16
+msgid "Apus Banner"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:28
+msgid "Banner"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:37
+#: inc/vendors/elementor/widgets/banner_account.php:53
+msgid "Image Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:39
+#: inc/vendors/elementor/widgets/banner_account.php:55
+msgid "Upload Image Background Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:48
+#: inc/vendors/elementor/widgets/team.php:90
+msgid "Upload Image Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:55
+msgid "Image Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:85
+#: inc/vendors/elementor/widgets/banner_account.php:93
+#: inc/vendors/elementor/widgets/countdown.php:101
+msgid "URL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:88
+#: inc/vendors/elementor/widgets/banner_account.php:96
+#: inc/vendors/elementor/widgets/call_to_action.php:67
+#: inc/vendors/elementor/widgets/countdown.php:104
+msgid "Enter your Button Link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:97
+#: inc/vendors/elementor/widgets/countdown.php:55
+msgid "Enter your content here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:104
+#: inc/vendors/elementor/widgets/banner_account.php:63
+#: inc/vendors/elementor/widgets/call_to_action.php:54
+#: inc/vendors/elementor/widgets/countdown.php:110
+msgid "Button Text"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:106
+#: inc/vendors/elementor/widgets/banner_account.php:65
+#: inc/vendors/elementor/widgets/call_to_action.php:57
+#: inc/vendors/elementor/widgets/countdown.php:112
+msgid "Enter your button text here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:113
+#: inc/vendors/elementor/widgets/banner_account.php:72
+#: inc/vendors/elementor/widgets/call_to_action.php:74
+#: inc/vendors/elementor/widgets/countdown.php:119
+msgid "Button Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:116
+#: inc/vendors/elementor/widgets/banner_account.php:75
+#: inc/vendors/elementor/widgets/countdown.php:122
+msgid "Theme Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:117
+#: inc/vendors/elementor/widgets/banner_account.php:76
+#: inc/vendors/elementor/widgets/countdown.php:123
+msgid "Theme Outline Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:118
+#: inc/vendors/elementor/widgets/banner_account.php:77
+#: inc/vendors/elementor/widgets/call_to_action.php:77
+#: inc/vendors/elementor/widgets/countdown.php:124
+msgid "Default "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:119
+#: inc/vendors/elementor/widgets/banner_account.php:78
+#: inc/vendors/elementor/widgets/call_to_action.php:78
+#: inc/vendors/elementor/widgets/countdown.php:125
+msgid "Primary "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:120
+#: inc/vendors/elementor/widgets/banner_account.php:79
+#: inc/vendors/elementor/widgets/call_to_action.php:79
+#: inc/vendors/elementor/widgets/countdown.php:126
+msgid "Success "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:121
+#: inc/vendors/elementor/widgets/banner_account.php:80
+#: inc/vendors/elementor/widgets/call_to_action.php:80
+#: inc/vendors/elementor/widgets/countdown.php:127
+msgid "Info "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:122
+#: inc/vendors/elementor/widgets/banner_account.php:81
+#: inc/vendors/elementor/widgets/call_to_action.php:81
+#: inc/vendors/elementor/widgets/countdown.php:128
+msgid "Warning "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:123
+#: inc/vendors/elementor/widgets/banner_account.php:82
+#: inc/vendors/elementor/widgets/call_to_action.php:82
+#: inc/vendors/elementor/widgets/countdown.php:129
+msgid "Danger "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:124
+#: inc/vendors/elementor/widgets/banner_account.php:83
+#: inc/vendors/elementor/widgets/call_to_action.php:83
+#: inc/vendors/elementor/widgets/countdown.php:130
+msgid "Pink "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:125
+#: inc/vendors/elementor/widgets/banner_account.php:84
+#: inc/vendors/elementor/widgets/call_to_action.php:84
+#: inc/vendors/elementor/widgets/countdown.php:131
+msgid "White "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:134
+msgid "Content Alignment"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:168
+#: inc/vendors/elementor/widgets/features_box.php:160
+#: inc/vendors/elementor/widgets/instagram.php:121
+#: inc/vendors/elementor/widgets/mailchimp.php:49 inc/widgets/socials.php:39
+msgid "Style 2"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:169
+msgid "Style 3"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:170
+msgid "Style 4"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:178
+msgid "Vertical Content"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:181
+msgid "Top"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:182
+msgid "Middle"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner.php:183
+msgid "Bottom"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:16
+msgid "Apus Banner Create Account"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:28
+msgid "Banner Account"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/banner_account.php:44
+#: inc/vendors/elementor/widgets/call_to_action.php:45
+#: inc/vendors/redux-framework/redux-config.php:372
+msgid "Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:16
+msgid "Apus Brands"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:39
+msgid "Brand Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:48
+msgid "Brand Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:50
+#: inc/vendors/elementor/widgets/testimonials.php:52
+msgid "Upload Brand Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:57
+#: inc/vendors/elementor/widgets/heading.php:131
+msgid "Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:60
+msgid "Enter your brand link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:67
+msgid "Brands"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:69
+msgid "Enter your brands here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:77
+#: inc/vendors/elementor/widgets/features_box.php:168
+#: inc/vendors/elementor/widgets/instagram.php:76
+#: inc/vendors/elementor/widgets/posts.php:102
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:124
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:151
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:162
+#: inc/vendors/redux-framework/redux-config.php:196
+msgid "Layout"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:81
+#: inc/vendors/elementor/widgets/features_box.php:171
+#: inc/vendors/elementor/widgets/instagram.php:80
+#: inc/vendors/elementor/widgets/posts.php:105
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:128
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:155
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:166
+msgid "Carousel"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/brands.php:106
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:140
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:168
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:179
+msgid "Enter your column number here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:16
+msgid "Apus Call To Action"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:39
+#: inc/vendors/elementor/widgets/countdown.php:38
+#: inc/vendors/elementor/widgets/instagram.php:43
+#: inc/vendors/elementor/widgets/mailchimp.php:38
+#: inc/vendors/elementor/widgets/nav_menu.php:48
+#: inc/vendors/elementor/widgets/posts.php:37
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:37
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:37
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:37
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:37
+msgid "Enter your title here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:47
+msgid "Enter your description here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:64
+msgid "Button Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:85
+msgid "Theme "
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:108
+#: inc/vendors/elementor/widgets/mailchimp.php:70
+#: inc/vendors/elementor/widgets/popup_video.php:100
+#: inc/vendors/elementor/widgets/posts.php:164
+#: inc/vendors/elementor/widgets/testimonials.php:145
+msgid "Tyles"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:158
+#: inc/vendors/elementor/widgets/mailchimp.php:99
+msgid "Button Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:171
+#: inc/vendors/elementor/widgets/mailchimp.php:112
+msgid "Button Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/call_to_action.php:184
+#: inc/vendors/elementor/widgets/mailchimp.php:125
+msgid "Button Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:16
+msgid "Apus Countdown"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:28
+msgid "Countdown"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:45 woocommerce/cart/cart.php:31
+#: woocommerce/cart/cart.php:83
+msgid "Price"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:47
+msgid "Enter your Price here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:60
+msgid "End Date"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:144
+msgid "Style 2(showdow)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/countdown.php:145
+msgid "Style 3(circle)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:16
+msgid "Apus Features Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:32
+#: inc/vendors/elementor/widgets/features_box.php:137
+msgid "Features Box"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:95
+#: inc/vendors/elementor/widgets/instagram.php:57
+#: inc/vendors/elementor/widgets/posts.php:44
+msgid "Number"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:98
+msgid "Enter your Number"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:104
+msgid "Title & Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:275
+msgid "Icon Style"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:293
+msgid "Icon BG Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/features_box.php:307
+msgid "Number Bg Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:42
+msgid "Apus Heading"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:114
+msgid "Add Your Heading Text Here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:122
+msgid "Line Decor Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:124
+msgid "Decor Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:146
+msgid "Size"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:151
+#: inc/vendors/elementor/widgets/instagram.php:93
+#: inc/vendors/elementor/widgets/social_links.php:90
+msgid "Small"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:152
+msgid "Medium"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:153
+#: inc/vendors/elementor/widgets/instagram.php:94
+msgid "Large"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:154
+msgid "XL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:155
+msgid "XXL"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:163
+msgid "HTML Tag"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:213
+#: woocommerce/myaccount/my-orders.php:83
+msgid "View"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:232
+msgid "Text Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:265
+msgid "Blend Mode"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/heading.php:268
+#: inc/vendors/elementor/widgets/social_links.php:89
+msgid "Normal"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:16
+msgid "Apus Instagram"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:32
+msgid "Instagram"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:49
+msgid "Instagram Username"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:59
+msgid "Number images to display"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:89
+msgid "Photo size"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:92
+msgid "Thumbnail"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:95
+msgid "Original"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:104
+msgid "Open links in"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:107
+msgid "Current window (_self)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/instagram.php:108
+msgid "New window (_blank)"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:16
+msgid "Apus MailChimp Sign-Up Form"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:28
+msgid "MailChimp Sign-Up Form"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:50
+msgid "Style 2 White"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:133
+msgid "Input Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:146
+msgid "Input Placeholder Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/mailchimp.php:162
+msgid "Input Background"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:16
+msgid "Apus Navigation Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:38
+msgid "Navigation Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:55
+msgid "Menu"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:69
+msgid "Line"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:153
+msgid "Menu Item"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:161
+msgid "Menu Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:172
+msgid "Menu Color Hover"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/nav_menu.php:184
+msgid "Menu Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:16
+msgid "Apus Popup Video"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:56
+msgid "Youtube Video Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:66
+msgid "Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/popup_video.php:68
+msgid "Upload Background Image"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:14
+msgid "Apus Posts"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:26
+msgid "Posts"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:47
+msgid "Number posts to display"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:55
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:77
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:88
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:76
+msgid "Order by"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:59
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:81
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:92
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:80
+#: woocommerce/myaccount/my-orders.php:35
+#: woocommerce/myaccount/my-orders.php:54
+msgid "Date"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:61
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:83
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:94
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:82
+msgid "Author"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:63
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:85
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:96
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:84
+msgid "Modified"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:64
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:86
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:97
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:85
+msgid "Random"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:65
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:87
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:98
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:86
+msgid "Comment count"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:66
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:88
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:99
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:87
+msgid "Menu order"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:75
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:97
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:108
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:96
+msgid "Sort order"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:79
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:101
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:112
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:100
+msgid "Ascending"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:80
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:102
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:113
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:101
+msgid "Descending"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:115
+#: inc/vendors/elementor/widgets/testimonials.php:112
+msgid "Show Nav"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:118
+#: inc/vendors/elementor/widgets/posts.php:132
+#: inc/vendors/elementor/widgets/testimonials.php:115
+#: inc/vendors/elementor/widgets/testimonials.php:126
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:64
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:168
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:183
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:196
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:211
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:207
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:222
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:47
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:58
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:69
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:80
+msgid "Hide"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:119
+#: inc/vendors/elementor/widgets/posts.php:133
+#: inc/vendors/elementor/widgets/testimonials.php:116
+#: inc/vendors/elementor/widgets/testimonials.php:127
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:65
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:167
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:182
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:195
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:210
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:206
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:221
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:48
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:59
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:70
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:81
+msgid "Show"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:129
+#: inc/vendors/elementor/widgets/testimonials.php:123
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:180
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:208
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:219
+msgid "Show Pagination"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:193
+msgid "Post Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:205
+msgid "Post Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:214
+msgid "Post Excerpt Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:226
+msgid "Post Excerpt Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:235
+msgid "Post Tag Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:247
+msgid "Post Tag Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:256
+msgid "Post Read More Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/posts.php:268
+msgid "Post Read More Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:14
+msgid "Apus Slider Revolution"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:33
+msgid "No sliders found"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:38
+msgid "Revslider"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:45
+msgid "Revolution Slider"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/revslider.php:48
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:16
+msgid "Apus Social Links"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:49
+#: inc/vendors/elementor/widgets/social_links.php:51
+#: inc/vendors/elementor/widgets/team.php:41
+#: inc/vendors/elementor/widgets/team.php:43
+msgid "Social Title"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:59
+#: inc/vendors/elementor/widgets/team.php:51
+msgid "Social Link"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:62
+#: inc/vendors/elementor/widgets/team.php:54
+#: inc/vendors/elementor/widgets/testimonials.php:86
+msgid "Enter your social link here"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:69
+#: inc/vendors/elementor/widgets/team.php:61
+msgid "Social Icon"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:77
+#: inc/vendors/elementor/widgets/team.php:106
+msgid "Socials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:141
+msgid "Social"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:149
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:131
+msgid "Background Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:160
+msgid "Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:172
+#: inc/vendors/elementor/widgets/team.php:136
+msgid "Background Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:184
+msgid "Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/social_links.php:197
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:126
+msgid "Border Radius"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:16
+msgid "Apus Teams"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:32
+msgid "Team"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:68
+#: inc/vendors/elementor/widgets/team.php:70
+msgid "Member Name"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:77
+#: inc/vendors/elementor/widgets/team.php:79
+msgid "Member Job"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/team.php:96
+#: inc/vendors/elementor/widgets/team.php:98
+msgid "Member Description"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:16
+msgid "Apus Testimonials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:68
+msgid "Rating Points"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:71
+msgid "1 star"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:72
+msgid "2 star"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:73
+msgid "3 star"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:74
+msgid "4 star"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:75
+msgid "5 star"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:84
+msgid "Link To"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:94
+msgid "Testimonials"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:174
+msgid "Testimonial Title Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:186
+msgid "Testimonial Title Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:195
+msgid "Content Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:207
+msgid "Content Typography"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:216
+msgid "Job Color"
+msgstr ""
+
+#: inc/vendors/elementor/widgets/testimonials.php:228
+msgid "Job Typography"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:14
+msgid "Apus Category Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:26
+msgid "Category Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:44
+msgid "Category Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:46
+msgid "Enter your Category Slug here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:53
+msgid "Category Icon"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:61
+msgid "Show Number Jobs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:84
+msgid "Style Icon"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:103
+msgid "Heading Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/category_banner.php:154
+msgid "<span>%d</span> Job"
+msgid_plural "<span>%d</span> Jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:14
+msgid "Apus Employers"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:44
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:44
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:43
+msgid "Categories Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:48
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:59
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:48
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:59
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:70
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:47
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:58
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:69
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:92
+msgid "Enter id spearate by comma(,)"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:55
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:66
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:65
+msgid "Location Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:66
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:77
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:134
+msgid "Limit"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:69
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:80
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:137
+msgid "Limit jobs to display"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:111
+msgid "Get Employers By"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:114
+msgid "Featured Employers"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:115
+msgid "Recent Employers"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:151
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:179
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:190
+msgid "Rows"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:154
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:182
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:193
+msgid "Enter your rows number here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:165
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:193
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:204
+msgid "Show Navigation"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:195
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:223
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:234
+msgid "Autoplay"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/employers.php:210
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:238
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:249
+msgid "Infinite Loop"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:14
+msgid "Apus Jobs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:55
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:54
+msgid "Types Slug"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:122
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:110
+msgid "Get Jobs By"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:125
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:113
+msgid "Featured Jobs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:126
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:114
+msgid "Urgent Jobs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:127
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:115
+msgid "Recent Jobs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:136
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:147
+msgid "Job Item Style"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:139
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:150
+msgid "List Style (Default)"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:140
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:151
+msgid "List Style v1"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:141
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:152
+msgid "List Style v2"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs.php:142
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:153
+msgid "Grid Style"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:14
+msgid "Apus Jobs Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:35
+msgid "Tab Title"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:124
+msgid "Tabs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:126
+msgid "Enter your job tabs here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:264
+msgid "View More Button Text"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:266
+msgid "Enter your view more text here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:273
+msgid "View More URL"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/jobs_tabs.php:275
+msgid "Enter your view more url here"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:14
+msgid "Apus Search Form"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:26
+msgid "City Banner"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:44
+msgid "Show keyword field"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:55
+msgid "Show location field"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:66
+msgid "Show type field"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:77
+msgid "Show category field"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:88
+msgid "Trending Keywords"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:99
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:36
+#: inc/vendors/wp-job-board/functions.php:250
+msgid "Layout Type"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:102
+msgid "Layout 1"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:103
+msgid "Layout 2"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:142
+msgid "Background Button Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:153
+msgid "Background Button Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:167
+msgid "Keywords"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:185
+msgid "Key Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:197
+msgid "Key Hover Color"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:215
+#: inc/vendors/wp-job-board/functions.php:275
+msgid "Search Keywords"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:218
+msgid "Job Title or Keywords"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:222
+#: inc/vendors/wp-job-board/functions.php:282
+#: template-jobs/misc/register.php:60 template-jobs/misc/register.php:86
+msgid "Category"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:226
+msgid "All Categories"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:229
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:232
+#: inc/vendors/wp-job-board/functions.php:290
+#: template-jobs/single-employer/detail.php:81 widgets/employer-info.php:92
+msgid "Location"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:240
+#: inc/vendors/wp-job-board/functions.php:311
+msgid "All Types"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:304
+msgid "Find Jobs"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/search_form.php:313
+msgid "Trending Keywords:"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:16
+msgid "Apus Header User Info"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:39
+msgid "Popup"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:40
+#: page-dashboard.php:50 page.php:50 template-jobs/single-candidate.php:70
+#: template-jobs/single-employer.php:69 template-jobs/single-job_listing.php:47
+#: template-posts/single/inner.php:53
+msgid "Page"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:93
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:80
+msgid "Color Icon"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:107
+msgid "Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:115
+msgid "Padding Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:137
+msgid "Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:148
+msgid "Background Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:159
+msgid "Border Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:171
+msgid "Hover Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:183
+msgid "Hover Background Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:195
+msgid "Hover Border Color Button"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:267
+msgid "Sign in"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:267
+msgid "Login / Register"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:270
+#: template-jobs/misc/login.php:44 template-parts/login-register.php:6
+#: woocommerce/myaccount/form-login.php:32
+msgid "Login"
+msgstr ""
+
+#: inc/vendors/elementor/wp-job-board-widgets/user_info.php:272
+#: template-parts/login-register.php:7 woocommerce/myaccount/form-login.php:67
+#: woocommerce/myaccount/form-login.php:97
+msgid "Register"
+msgstr ""
+
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:16
+msgid "Apus Message Notification"
+msgstr ""
+
+#: inc/vendors/elementor/wp-private-message-widgets/header-notification.php:96
+msgid "Color Hover Icon"
+msgstr ""
+
+#: inc/vendors/one-click-demo-import/functions.php:22
+msgid "Import process may take 5-10 minutes. If you facing any issues please contact our support."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:52
+msgid "5 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:54
+msgid "7 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:55
+msgid "8 Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:62
+msgid "Preload Website"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:68
+msgid "Preload Icon"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:69
+msgid "Upload a .png or .gif image that will be your preload icon."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:75
+msgid "Image Lazy Loading"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:81
+msgid "Smooth Scroll"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:87
+msgid "General"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:93
+msgid "Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:99
+msgid "Header Settings"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:107
+msgid "You can add or edit a header in <a href=\"%s\" target=\"_blank\">Headers Builder</a>"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:112
+msgid "Sticky Header"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:119
+msgid "Header Mobile Settings"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:124
+msgid "Mobile Logo Upload"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:125
+msgid "Upload a .png or .gif image that will be your logo."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:132
+msgid "Footer"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:144
+msgid "Back To Top Button"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:145
+msgid "Toggle whether or not to enable a back to top button on your pages."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:159
+#: inc/vendors/woocommerce/functions-redux-configs.php:19
+#: inc/vendors/wp-job-board/functions-redux-configs.php:12
+#: inc/vendors/wp-job-board/functions-redux-configs.php:204
+#: inc/vendors/wp-job-board/functions-redux-configs.php:387
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:163
+#: inc/vendors/woocommerce/functions-redux-configs.php:23
+#: inc/vendors/wp-job-board/functions-redux-configs.php:16
+#: inc/vendors/wp-job-board/functions-redux-configs.php:208
+#: inc/vendors/wp-job-board/functions-redux-configs.php:391
+msgid "Breadcrumbs Background Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:164
+#: inc/vendors/woocommerce/functions-redux-configs.php:24
+#: inc/vendors/wp-job-board/functions-redux-configs.php:17
+#: inc/vendors/wp-job-board/functions-redux-configs.php:209
+#: inc/vendors/wp-job-board/functions-redux-configs.php:392
+msgid "The breadcrumbs background color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:172
+#: inc/vendors/woocommerce/functions-redux-configs.php:32
+#: inc/vendors/wp-job-board/functions-redux-configs.php:25
+#: inc/vendors/wp-job-board/functions-redux-configs.php:217
+#: inc/vendors/wp-job-board/functions-redux-configs.php:400
+msgid "Breadcrumbs Background"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:173
+#: inc/vendors/woocommerce/functions-redux-configs.php:33
+#: inc/vendors/wp-job-board/functions-redux-configs.php:26
+#: inc/vendors/wp-job-board/functions-redux-configs.php:218
+#: inc/vendors/wp-job-board/functions-redux-configs.php:401
+msgid "Upload a .jpg or .png image that will be your breadcrumbs."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:178
+#: inc/vendors/woocommerce/functions-redux-configs.php:38
+#: inc/vendors/wp-job-board/functions-redux-configs.php:31
+#: inc/vendors/wp-job-board/functions-redux-configs.php:223
+#: inc/vendors/wp-job-board/functions-redux-configs.php:406
+msgid "Breadcrumbs Style"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:190
+msgid "Blog & Post Archives"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:197
+#: inc/vendors/redux-framework/redux-config.php:276
+msgid "Select the variation you want to apply on your store."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:200
+#: inc/vendors/redux-framework/redux-config.php:201
+#: inc/vendors/redux-framework/redux-config.php:279
+#: inc/vendors/redux-framework/redux-config.php:280
+#: inc/vendors/woocommerce/functions-redux-configs.php:212
+#: inc/vendors/woocommerce/functions-redux-configs.php:213
+msgid "Main Only"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:205
+#: inc/vendors/redux-framework/redux-config.php:206
+#: inc/vendors/redux-framework/redux-config.php:284
+#: inc/vendors/redux-framework/redux-config.php:285
+#: inc/vendors/woocommerce/functions-redux-configs.php:217
+#: inc/vendors/woocommerce/functions-redux-configs.php:218
+msgid "Left - Main Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:210
+#: inc/vendors/redux-framework/redux-config.php:211
+#: inc/vendors/redux-framework/redux-config.php:289
+#: inc/vendors/redux-framework/redux-config.php:290
+#: inc/vendors/woocommerce/functions-redux-configs.php:222
+#: inc/vendors/woocommerce/functions-redux-configs.php:223
+msgid "Main - Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:226
+#: inc/vendors/woocommerce/functions-redux-configs.php:140
+msgid "Archive Left Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:227
+#: inc/vendors/redux-framework/redux-config.php:306
+#: inc/vendors/woocommerce/functions-redux-configs.php:141
+#: inc/vendors/woocommerce/functions-redux-configs.php:239
+msgid "Choose a sidebar for left sidebar."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:233
+#: inc/vendors/woocommerce/functions-redux-configs.php:147
+msgid "Archive Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:234
+#: inc/vendors/redux-framework/redux-config.php:313
+#: inc/vendors/woocommerce/functions-redux-configs.php:148
+#: inc/vendors/woocommerce/functions-redux-configs.php:246
+msgid "Choose a sidebar for right sidebar."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:241
+msgid "Display Mode"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:243
+msgid "Grid Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:244
+msgid "List 1 Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:251
+msgid "Blog Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:258
+msgid "Thumbnail Size"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:259
+msgid "This featured for the site is using Visual Composer."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:260
+msgid "Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes defined by current theme. Alternatively enter image size in pixels: 200x100 (Width x Height) ."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:275
+msgid "Archive Blog Layout"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:305
+msgid "Single Blog Left Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:312
+msgid "Single Blog Right Sidebar"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:319
+#: inc/vendors/woocommerce/functions-redux-configs.php:189
+#: inc/vendors/wp-job-board/functions-redux-configs.php:153
+#: inc/vendors/wp-job-board/functions-redux-configs.php:336
+#: inc/vendors/wp-job-board/functions-redux-configs.php:517
+msgid "Show Social Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:325
+msgid "Show Releated Posts"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:331
+msgid "Number of related posts to show"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:342
+msgid "Releated Blogs Columns"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:355
+msgid "404 Page"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:358
+msgid "Images Icon"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:359
+msgid "Icon for 404 error."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:381
+msgid "Custom Style"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:387
+msgid "Custom Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:390
+msgid "Main Theme Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:391
+#: inc/vendors/redux-framework/redux-config.php:398
+msgid "The main color of the site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:397
+msgid "Button Background Hover Color"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:409
+msgid "Custom Typography"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:412
+msgid "Main Font Face"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:413
+msgid "Pick the Main Font for your site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:429
+msgid "Heading Font Face"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:430
+msgid "Pick the Heading Font for your site."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:452
+msgid "Social Media"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:457
+msgid "Enable Facebook Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:463
+msgid "Enable twitter Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:469
+msgid "Enable linkedin Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:475
+msgid "Enable pinterest Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:481
+msgid "Enable More Share"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:489
+msgid "Import / Export"
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:490
+msgid "Import and Export your Redux Framework settings from file, text or URL."
+msgstr ""
+
+#: inc/vendors/redux-framework/redux-config.php:531
+#: inc/vendors/redux-framework/redux-config.php:532
+msgid "Theme Options"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:8
+msgid "Shop Settings"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:14
+msgid "Breadcrumbs Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:49
+msgid "Product Archives"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:56
+#: inc/vendors/woocommerce/functions-redux-configs.php:164
+#: inc/vendors/wp-job-board/functions-redux-configs.php:49
+#: inc/vendors/wp-job-board/functions-redux-configs.php:131
+#: inc/vendors/wp-job-board/functions-redux-configs.php:241
+#: inc/vendors/wp-job-board/functions-redux-configs.php:325
+#: inc/vendors/wp-job-board/functions-redux-configs.php:424
+#: inc/vendors/wp-job-board/functions-redux-configs.php:506
+msgid "General Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:61
+msgid "Show Shop/Category Title ?"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:67
+msgid "Products Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:68
+msgid "Choose a default layout archive product."
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:78
+msgid "Product Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:86
+msgid "Number of Products Per Page"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:96
+msgid "Enable Swap Image"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:104
+#: inc/vendors/woocommerce/functions-redux-configs.php:202
+#: inc/vendors/wp-job-board/functions-redux-configs.php:285
+#: inc/vendors/wp-job-board/functions-redux-configs.php:466
+msgid "Sidebar Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:116
+#: inc/vendors/wp-job-board/functions-redux-configs.php:291
+#: inc/vendors/wp-job-board/functions-redux-configs.php:472
+msgid "Archive Product Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:117
+msgid "Select the layout you want to apply on your archive product page."
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:157
+msgid "Single Product"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:169
+msgid "Thumbnails Position"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:171
+msgid "Thumbnails Left"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:172
+msgid "Thumbnails Right"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:173
+msgid "Thumbnails Bottom"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:179
+msgid "Number Thumbnails Per Row"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:195
+msgid "Show Product Review Tab"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:208
+msgid "Single Product Sidebar Layout"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:209
+msgid "Select the layout you want to apply on your Single Product Page."
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:238
+msgid "Single Product Left Sidebar"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:245
+msgid "Single Product Right Sidebar"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:253
+msgid "Product Block Setting"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:258
+msgid "Show Products Releated"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:263
+msgid "Number of related products to show"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:274
+msgid "Releated Products Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:283
+msgid "Show Products upsells"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions-redux-configs.php:289
+msgid "Upsells Products Columns"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:130
+#: woocommerce/single-product/short-description.php:35
+msgid "View More"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:131
+msgid "View Less"
+msgstr ""
+
+#: inc/vendors/woocommerce/functions.php:318
+#: inc/vendors/woocommerce/functions.php:358
+msgid "Placeholder"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-candidate-display.php:62
+#: inc/vendors/wp-job-board/functions-job-display.php:186
+msgid "Location:"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-candidate-display.php:91
+#: inc/vendors/wp-job-board/functions-employer-display.php:99
+#: inc/vendors/wp-job-board/functions-job-display.php:312
+msgid "featured"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-candidate-display.php:98
+#: inc/vendors/wp-job-board/functions-job-display.php:319
+#: inc/vendors/wp-job-board/functions.php:344
+#: template-jobs/single-candidate/header-pdf.php:34
+msgid "Urgent"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-candidate-display.php:141
+#: inc/vendors/wp-job-board/functions-job-display.php:208
+msgid "Salary:"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-candidate-display.php:171
+msgid "Birthday:"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-candidate-display.php:192
+#: template-jobs/misc/candidate-dashboard.php:56
+#: template-jobs/misc/employer-dashboard.php:46
+msgid "Shortlisted"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-candidate-display.php:196
+msgid "Shortlist"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-candidate-display.php:232
+#: inc/vendors/wp-job-board/functions-employer-display.php:207
+#: inc/vendors/wp-job-board/functions-job-display.php:361
+#: wp-private-message/dashboard.php:44
+msgid "All"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-candidate-display.php:234
+#: inc/vendors/wp-job-board/functions-employer-display.php:209
+#: inc/vendors/wp-job-board/functions-job-display.php:363
+msgid "%s Per Page"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-employer-display.php:48
+msgid "<span>%d</span> Open Job"
+msgid_plural "<span>%d</span> Open Jobs"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/wp-job-board/functions-employer-display.php:67
+msgid "<span class=\"text-red\">%d</span> <span class=\"text\">Job</span>"
+msgid_plural "<span class=\"text-red\">%d</span> <span class=\"text\">Jobs</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/wp-job-board/functions-employer-display.php:79
+msgid "<span class=\"text-green\">%d</span> <span class=\"text\">Review</span>"
+msgid_plural "<span class=\"text-green\">%d</span> <span class=\"text\">Reviews</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/wp-job-board/functions-employer-display.php:91
+msgid "<span class=\"text-blue\">%d</span> <span class=\"text\">View</span>"
+msgid_plural "<span class=\"text-blue\">%d</span> <span class=\"text\">Views</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/vendors/wp-job-board/functions-employer-display.php:168
+msgid "Following"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-employer-display.php:172
+msgid "Follow us"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-job-display.php:50
+#: inc/vendors/wp-job-board/functions-job-display.php:89
+msgid "Job Type:"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-job-display.php:133
+msgid "Tagged as:"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-job-display.php:254
+msgid "Application deadline closed."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-job-display.php:267
+#: inc/vendors/wp-job-board/functions-job-display.php:293
+msgid "Deadline date:"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:42
+msgid "Job Archives"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:61
+msgid "Choose a default layout archive job."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:72
+msgid "Jobs display mode"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:73
+msgid "Choose a default display mode for archive job."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:84
+msgid "Choose a job style."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:96
+msgid "Job Columns"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:115
+msgid "Placeholder Image"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:116
+msgid "Upload a .jpg or .png image that will be your placeholder."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:124
+msgid "Single Job"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:142
+msgid "Job Layout"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:143
+msgid "Choose a default layout single job."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:145
+#: inc/vendors/wp-job-board/functions.php:255
+msgid "Version 1"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:146
+#: inc/vendors/wp-job-board/functions.php:256
+msgid "Version 2"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:160
+msgid "Job Block Setting"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:165
+msgid "Show Jobs Releated"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:170
+msgid "Number of related jobs to show"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:181
+msgid "Releated Jobs Columns"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:199
+msgid "Employer Settings"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:234
+msgid "Employer Archives"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:254
+msgid "Choose a default display mode for archive employer."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:292
+msgid "Select the layout you want to apply on your archive employers page."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:318
+msgid "Single Employer"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:343
+msgid "Employer Block Setting"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:348
+msgid "Show Employers Releated"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:353
+msgid "Number of related employers to show"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:364
+msgid "Releated Employers Columns"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:382
+msgid "Candidate Settings"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:417
+msgid "Candidate Archives"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:436
+msgid "Choose a default display mode for archive candidate."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:473
+msgid "Select the layout you want to apply on your archive candidates page."
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:499
+msgid "Single Candidate"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:524
+msgid "Candidate Block Setting"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:529
+msgid "Show Candidates Releated"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:534
+msgid "Number of related candidates to show"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions-redux-configs.php:545
+msgid "Releated Candidates Columns"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:254
+msgid "Global Settings"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:277
+msgid "e.g. web design"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:292
+msgid "All Location"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:299
+msgid "Location list"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:302
+msgid "All Locations"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:308
+msgid "Job Type"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:317
+msgid "Salary"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:324
+msgid "Date Posted"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:331
+msgid "Job Tag"
+msgstr ""
+
+#: inc/vendors/wp-job-board/functions.php:512
+#: inc/vendors/wp-job-board/functions.php:539
+#: inc/vendors/wp-job-board/functions.php:552
+#: inc/vendors/wp-job-board/functions.php:566
+#: inc/vendors/wp-job-board/functions.php:580
+msgid "Demo users are not allowed to modify information."
+msgstr ""
+
+#: inc/vendors/wp-job-board-wc-paid-listings/functions.php:14
+msgid "Package icon class"
+msgstr ""
+
+#: inc/vendors/wp-job-board-wc-paid-listings/functions.php:16
+msgid "Enter icon class for this package"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:9
+msgid "Send Private Message"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:13
+#: inc/vendors/wp-private-message/functions.php:72
+msgid "Send message to \"%s\""
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:19
+#: inc/vendors/wp-private-message/functions.php:78
+#: widgets/candidate-contact-form.php:43 widgets/employer-contact-form.php:44
+msgid "Subject"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:22
+#: inc/vendors/wp-private-message/functions.php:81
+msgid "Enter text here..."
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:28
+#: inc/vendors/wp-private-message/functions.php:87
+#: widgets/employer-contact-form.php:67
+msgid "Send Message"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:38
+#: inc/vendors/wp-private-message/functions.php:97
+msgid "Please login to send a private message"
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:60
+msgid "Your nonce did not verify."
+msgstr ""
+
+#: inc/vendors/wp-private-message/functions.php:66
+msgid "Candidate is not exits."
+msgstr ""
+
+#: inc/widgets/candidate-buttons.php:7
+msgid "Candidate Detail:: Candidate Buttons"
+msgstr ""
+
+#: inc/widgets/candidate-buttons.php:8
+msgid "Show candidate buttons"
+msgstr ""
+
+#: inc/widgets/candidate-buttons.php:31
+#: inc/widgets/candidate-contact-form.php:29 inc/widgets/candidate-cv.php:29
+#: inc/widgets/candidate-info.php:29 inc/widgets/custom_menu.php:44
+#: inc/widgets/employer-contact-form.php:29 inc/widgets/employer-info.php:29
+#: inc/widgets/employer-maps.php:29 inc/widgets/job-also-viewed.php:30
+#: inc/widgets/job-buttons.php:32 inc/widgets/job-employer-info.php:29
+#: inc/widgets/job-info.php:29 inc/widgets/job-maps.php:29
+#: inc/widgets/job-social-share.php:29 inc/widgets/job-statistics.php:32
+#: inc/widgets/recent_post.php:32 inc/widgets/search.php:30
+#: inc/widgets/socials.php:48 inc/widgets/user-short-profile.php:41
+msgid "Title:"
+msgstr ""
+
+#: inc/widgets/candidate-buttons.php:37 inc/widgets/job-buttons.php:53
+msgid "Show Shortlist Button"
+msgstr ""
+
+#: inc/widgets/candidate-buttons.php:43
+msgid "Show Download CV Button"
+msgstr ""
+
+#: inc/widgets/candidate-contact-form.php:7
+msgid "Candidate Detail:: Contact Form"
+msgstr ""
+
+#: inc/widgets/candidate-contact-form.php:8
+msgid "Show candidate contact form"
+msgstr ""
+
+#: inc/widgets/candidate-contact-form.php:31
+msgid "Enter %1s for candidate name"
+msgstr ""
+
+#: inc/widgets/candidate-cv.php:7
+msgid "Candidate Detail:: Candidate CV"
+msgstr ""
+
+#: inc/widgets/candidate-cv.php:8
+msgid "Show candidate cv"
+msgstr ""
+
+#: inc/widgets/candidate-info.php:7
+msgid "Candidate Detail:: Information"
+msgstr ""
+
+#: inc/widgets/candidate-info.php:8
+msgid "Show candidate information"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:7
+msgid "Apus Custom Menu Widget"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:8
+msgid "Show custom menu"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:49
+msgid "Menu:"
+msgstr ""
+
+#: inc/widgets/custom_menu.php:61 inc/widgets/socials.php:81
+msgid "Style:"
+msgstr ""
+
+#: inc/widgets/employer-contact-form.php:7
+msgid "Employer Detail:: Contact Form"
+msgstr ""
+
+#: inc/widgets/employer-contact-form.php:8
+msgid "Show employer contact form"
+msgstr ""
+
+#: inc/widgets/employer-contact-form.php:31
+msgid "Enter %1s for employer name"
+msgstr ""
+
+#: inc/widgets/employer-info.php:7
+msgid "Employer Detail:: Information"
+msgstr ""
+
+#: inc/widgets/employer-info.php:8
+msgid "Show employer information"
+msgstr ""
+
+#: inc/widgets/employer-maps.php:7
+msgid "Employer Detail:: Maps"
+msgstr ""
+
+#: inc/widgets/employer-maps.php:8
+msgid "Show employer maps"
+msgstr ""
+
+#: inc/widgets/job-also-viewed.php:7
+msgid "Job Detail:: People also viewed"
+msgstr ""
+
+#: inc/widgets/job-also-viewed.php:8
+msgid "Show job people also viewed"
+msgstr ""
+
+#: inc/widgets/job-also-viewed.php:35
+msgid "Limit:"
+msgstr ""
+
+#: inc/widgets/job-buttons.php:7
+msgid "Job Detail:: Apply/Shortlist Buttons"
+msgstr ""
+
+#: inc/widgets/job-buttons.php:8
+msgid "Show job buttons"
+msgstr ""
+
+#: inc/widgets/job-buttons.php:39
+msgid "Show Apply Button"
+msgstr ""
+
+#: inc/widgets/job-buttons.php:46
+msgid "Show Social Apply"
+msgstr ""
+
+#: inc/widgets/job-employer-info.php:7
+msgid "Job Detail:: Employer Information"
+msgstr ""
+
+#: inc/widgets/job-employer-info.php:8
+msgid "Show job employer information"
+msgstr ""
+
+#: inc/widgets/job-filter-horizontal.php:12
+msgid "Job Filter (Horizontal)"
+msgstr ""
+
+#: inc/widgets/job-filter-horizontal.php:14
+msgid "Filter for filtering jobs."
+msgstr ""
+
+#: inc/widgets/job-filter-horizontal.php:60
+msgid "Button text"
+msgstr ""
+
+#: inc/widgets/job-filter-horizontal.php:66
+msgid "Filter Fields"
+msgstr ""
+
+#: inc/widgets/job-filter-horizontal.php:96
+#: inc/widgets/job-filter-horizontal.php:101
+msgid "Show Advance Filter Fields"
+msgstr ""
+
+#: inc/widgets/job-filter-horizontal.php:106
+msgid "Advance Filter Fields"
+msgstr ""
+
+#: inc/widgets/job-info.php:7
+msgid "Job Detail:: Information"
+msgstr ""
+
+#: inc/widgets/job-info.php:8
+msgid "Show job information"
+msgstr ""
+
+#: inc/widgets/job-maps.php:7
+msgid "Job Detail::  Maps"
+msgstr ""
+
+#: inc/widgets/job-maps.php:8
+msgid "Show job maps"
+msgstr ""
+
+#: inc/widgets/job-social-share.php:7
+msgid "Job Detail:: Social Share"
+msgstr ""
+
+#: inc/widgets/job-social-share.php:8
+msgid "Show job social share"
+msgstr ""
+
+#: inc/widgets/job-statistics.php:7
+msgid "Job Detail:: Statistics"
+msgstr ""
+
+#: inc/widgets/job-statistics.php:8
+msgid "Show job statistics"
+msgstr ""
+
+#: inc/widgets/job-statistics.php:38
+msgid "Show post date"
+msgstr ""
+
+#: inc/widgets/job-statistics.php:45
+msgid "Show Views"
+msgstr ""
+
+#: inc/widgets/job-statistics.php:52
+msgid "Show Applicants"
+msgstr ""
+
+#: inc/widgets/recent_post.php:7
+msgid "Apus Recent Posts Widget"
+msgstr ""
+
+#: inc/widgets/recent_post.php:8
+msgid "Show list of recent post"
+msgstr ""
+
+#: inc/widgets/recent_post.php:37 inc/widgets/search.php:35
+msgid "Type:"
+msgstr ""
+
+#: inc/widgets/recent_post.php:49
+msgid "Num Posts:"
+msgstr ""
+
+#: inc/widgets/search.php:7
+msgid "Apus Search Widget"
+msgstr ""
+
+#: inc/widgets/search.php:8
+msgid "Show search form in sidebar"
+msgstr ""
+
+#: inc/widgets/socials.php:7
+msgid "Apus Socials"
+msgstr ""
+
+#: inc/widgets/socials.php:8
+msgid "Socials for website."
+msgstr ""
+
+#: inc/widgets/socials.php:52
+msgid "Select socials:"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:7
+msgid "Apus User Short Profile"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:8
+msgid "Show User Short Profile in sidebar"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:29
+msgid "Choose a menu"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:46
+msgid "Employer Menu:"
+msgstr ""
+
+#: inc/widgets/user-short-profile.php:58
+msgid "Candidate Menu:"
+msgstr ""
+
+#: list-comments.php:20
+msgid "%1$s"
+msgstr ""
+
+#: list-comments.php:21 template-jobs/submission/my-jobs.php:186
+#: template-jobs/submission/my-jobs.php:203
+#: woocommerce/myaccount/my-address.php:47
+msgid "Edit"
+msgstr ""
+
+#: list-comments.php:25
+msgid " Reply"
+msgstr ""
+
+#: list-comments.php:30
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: page-dashboard.php:46 page.php:46 template-posts/single/inner.php:49
+msgid "Pages:"
+msgstr ""
+
+#: page-jobs.php:58 template-jobs/archive-job_listing.php:35
+msgid "Map View"
+msgstr ""
+
+#: page-jobs.php:59 template-jobs/archive-job_listing.php:36
+msgid "Listing View"
+msgstr ""
+
+#: searchform.php:13 widgets/search.php:17
+msgid "Search"
+msgstr ""
+
+#: template-jobs/candidates-styles/inner-grid.php:39
+#: widgets/candidate-contact-form.php:58 widgets/employer-contact-form.php:59
+#: woocommerce/single-product-reviews.php:95
+msgid "Message"
+msgstr ""
+
+#: template-jobs/candidates-styles/inner-grid.php:41
+#: template-jobs/candidates-styles/inner-list.php:58
+#: template-jobs/content-applicant.php:74
+#: template-jobs/content-applicant.php:102
+#: template-jobs/misc/candidates-shortlist.php:142
+#: template-jobs/misc/candidates-shortlist.php:149
+msgid "View Profile"
+msgstr ""
+
+#: template-jobs/content-applicant.php:72
+#: template-jobs/content-applicant.php:100
+msgid "Download CV"
+msgstr ""
+
+#: template-jobs/content-applicant.php:78
+#: template-jobs/content-applicant.php:106
+msgid "Rejected"
+msgstr ""
+
+#: template-jobs/content-applicant.php:81
+#: template-jobs/content-applicant.php:109
+msgid "Reject"
+msgstr ""
+
+#: template-jobs/content-applicant.php:87
+#: template-jobs/content-applicant.php:115
+#: template-jobs/content-rejected-applicant.php:68
+#: template-jobs/content-rejected-applicant.php:80
+#: template-jobs/misc/my-candidates-alerts.php:143
+#: template-jobs/submission/my-jobs.php:221 woocommerce/cart/cart.php:34
+msgid "Remove"
+msgstr ""
+
+#: template-jobs/content-rejected-applicant.php:66
+#: template-jobs/content-rejected-applicant.php:78
+msgid "Undo Rejected"
+msgstr ""
+
+#: template-jobs/content-single-candidate-pdf.php:22
+#: template-jobs/content-single-candidate.php:21
+msgid "About Me"
+msgstr ""
+
+#: template-jobs/content-single-employer.php:23
+msgid "Employer Description"
+msgstr ""
+
+#: template-jobs/employers-styles/inner-list.php:37
+#: template-jobs/employers-styles/inner-list.php:48
+msgid "Unfollow"
+msgstr ""
+
+#: template-jobs/jobs-styles/inner-grid.php:27
+msgid "Browse Job"
+msgstr ""
+
+#: template-jobs/jobs-styles/inner-list-v1.php:32
+#: template-jobs/jobs-styles/inner-list-v1.php:38
+msgid "View Job"
+msgstr ""
+
+#: template-jobs/loop/candidate/archive-inner.php:54
+msgid "No candidate found."
+msgstr ""
+
+#: template-jobs/loop/candidate/pagination.php:16
+#: template-jobs/loop/employer/pagination.php:17
+#: template-jobs/loop/job/pagination.php:16
+#: template-jobs/misc/job-applicants.php:178
+#: wp-private-message/dashboard.php:80 wp-private-message/reply-section.php:46
+msgid "Load more"
+msgstr ""
+
+#: template-jobs/loop/candidate/pagination.php:17
+msgid "All candidates loaded."
+msgstr ""
+
+#: template-jobs/loop/employer/archive-inner.php:90
+msgid "No employer found."
+msgstr ""
+
+#: template-jobs/loop/employer/pagination.php:18
+msgid "All employers loaded."
+msgstr ""
+
+#: template-jobs/loop/job/archive-inner.php:53
+msgid "No job found."
+msgstr ""
+
+#: template-jobs/loop/job/pagination.php:17
+msgid "All jobs loaded."
+msgstr ""
+
+#: template-jobs/misc/candidate-dashboard.php:29
+#: template-jobs/misc/employer-dashboard.php:19
+msgid "Applications statistics"
+msgstr ""
+
+#: template-jobs/misc/candidate-dashboard.php:41
+#: template-jobs/misc/jobs-applied.php:10
+msgid "Applied Jobs"
+msgstr ""
+
+#: template-jobs/misc/candidate-dashboard.php:71
+#: template-jobs/misc/employer-dashboard.php:61
+#: template-jobs/single-candidate/reviews.php:56
+#: template-jobs/single-employer/reviews.php:55
+msgid "Review"
+msgstr ""
+
+#: template-jobs/misc/candidate-dashboard.php:86
+#: template-jobs/misc/employer-dashboard.php:76
+#: template-jobs/single-employer/detail.php:57 widgets/candidate-info.php:69
+#: widgets/employer-info.php:68
+msgid "Views"
+msgstr ""
+
+#: template-jobs/misc/candidate-dashboard.php:94
+msgid "Jobs Applied Recently"
+msgstr ""
+
+#: template-jobs/misc/candidate-dashboard.php:120
+#: template-jobs/misc/candidate-dashboard.php:125
+msgid "No Applicants found."
+msgstr ""
+
+#: template-jobs/misc/candidates-shortlist.php:10
+msgid "Candidate Shorlist"
+msgstr ""
+
+#: template-jobs/misc/candidates-shortlist.php:15
+#: template-jobs/misc/job-applicants.php:16
+#: template-jobs/misc/jobs-applied.php:15
+#: template-jobs/misc/jobs-shortlist.php:16
+#: template-jobs/misc/my-candidates-alerts.php:16
+#: template-jobs/misc/my-following-employers.php:15
+#: template-jobs/misc/my-jobs-alerts.php:16
+#: template-jobs/submission/my-jobs.php:21
+msgid "Search ..."
+msgstr ""
+
+#: template-jobs/misc/candidates-shortlist.php:29
+#: template-jobs/misc/job-applicants.php:40
+#: template-jobs/misc/jobs-applied.php:29
+#: template-jobs/misc/jobs-shortlist.php:30
+#: template-jobs/misc/my-candidates-alerts.php:30
+#: template-jobs/misc/my-following-employers.php:29
+#: template-jobs/misc/my-jobs-alerts.php:30
+#: template-jobs/submission/my-jobs.php:35
+msgid "Newest"
+msgstr ""
+
+#: template-jobs/misc/candidates-shortlist.php:30
+#: template-jobs/misc/job-applicants.php:41
+#: template-jobs/misc/jobs-applied.php:30
+#: template-jobs/misc/jobs-shortlist.php:31
+#: template-jobs/misc/my-candidates-alerts.php:31
+#: template-jobs/misc/my-following-employers.php:30
+#: template-jobs/misc/my-jobs-alerts.php:31
+#: template-jobs/submission/my-jobs.php:36
+msgid "Oldest"
+msgstr ""
+
+#: template-jobs/misc/candidates-shortlist.php:38
+#: template-jobs/misc/job-applicants.php:49
+#: template-jobs/misc/jobs-applied.php:38
+#: template-jobs/misc/jobs-shortlist.php:39
+#: template-jobs/misc/my-candidates-alerts.php:39
+#: template-jobs/misc/my-following-employers.php:38
+#: template-jobs/misc/my-jobs-alerts.php:39
+#: template-jobs/submission/my-jobs.php:44
+msgid "Sort by: "
+msgstr ""
+
+#: template-jobs/misc/candidates-shortlist.php:143
+#: template-jobs/misc/candidates-shortlist.php:150
+msgid "Send message"
+msgstr ""
+
+#: template-jobs/misc/candidates-shortlist.php:144
+#: template-jobs/misc/candidates-shortlist.php:151
+msgid "Delete candidate"
+msgstr ""
+
+#: template-jobs/misc/candidates-shortlist.php:170
+msgid "Don't have any candidates in shortlist"
+msgstr ""
+
+#: template-jobs/misc/delete-profile-form.php:13
+#: template-jobs/misc/delete-profile-form.php:29
+msgid "Delete Profile"
+msgstr ""
+
+#: template-jobs/misc/delete-profile-form.php:14
+msgid "Are you sure! You want to delete your profile."
+msgstr ""
+
+#: template-jobs/misc/delete-profile-form.php:15
+msgid "This can't be undone!"
+msgstr ""
+
+#: template-jobs/misc/delete-profile-form.php:20
+msgid "Please enter your login Password to confirm:"
+msgstr ""
+
+#: template-jobs/misc/delete-profile-form.php:21
+#: template-jobs/misc/login.php:30 template-jobs/misc/login.php:31
+#: woocommerce/myaccount/form-login.php:41
+#: woocommerce/myaccount/form-login.php:87
+msgid "Password"
+msgstr ""
+
+#: template-jobs/misc/employer-dashboard.php:31
+msgid "Posted Jobs"
+msgstr ""
+
+#: template-jobs/misc/employer-dashboard.php:84
+msgid "Recent Applicants"
+msgstr ""
+
+#: template-jobs/misc/employer-dashboard.php:119
+#: template-jobs/misc/employer-dashboard.php:124
+#: template-jobs/misc/job-applicants.php:188
+#: template-jobs/misc/job-applicants.php:199
+msgid "No applicants found."
+msgstr ""
+
+#: template-jobs/misc/job-applicants.php:10
+msgid "Applicant"
+msgstr ""
+
+#: template-jobs/misc/job-applicants.php:19
+msgid "Filter by job"
+msgstr ""
+
+#: template-jobs/misc/job-applicants.php:155
+msgid "Total(s): %s"
+msgstr ""
+
+#: template-jobs/misc/job-applicants.php:160
+msgid "Rejected(s): %s"
+msgstr ""
+
+#: template-jobs/misc/jobs-applied.php:86
+msgid " posted %s ago"
+msgstr ""
+
+#: template-jobs/misc/jobs-applied.php:124
+#: template-jobs/misc/jobs-shortlist.php:155
+#: template-jobs/misc/my-candidates-alerts.php:157
+#: template-jobs/misc/my-following-employers.php:64
+#: template-jobs/misc/my-jobs-alerts.php:148
+#: template-jobs/single-candidate.php:68 template-jobs/single-employer.php:67
+#: template-jobs/single-job_listing.php:45
+msgid "Previous page"
+msgstr ""
+
+#: template-jobs/misc/jobs-applied.php:125
+#: template-jobs/misc/jobs-shortlist.php:156
+#: template-jobs/misc/my-candidates-alerts.php:158
+#: template-jobs/misc/my-following-employers.php:65
+#: template-jobs/misc/my-jobs-alerts.php:149
+#: template-jobs/single-candidate.php:69 template-jobs/single-employer.php:68
+#: template-jobs/single-job_listing.php:46
+msgid "Next page"
+msgstr ""
+
+#: template-jobs/misc/jobs-applied.php:130
+msgid "No apply found."
+msgstr ""
+
+#: template-jobs/misc/jobs-shortlist.php:10
+msgid "Jobs Shortlist"
+msgstr ""
+
+#: template-jobs/misc/jobs-shortlist.php:126
+msgid "Posted %s ago"
+msgstr ""
+
+#: template-jobs/misc/jobs-shortlist.php:164
+msgid "No jobs found."
+msgstr ""
+
+#: template-jobs/misc/login.php:26 template-jobs/misc/login.php:27
+#: woocommerce/myaccount/form-lost-password.php:28
+msgid "Username or email"
+msgstr ""
+
+#: template-jobs/misc/login.php:36
+msgid "Keep me signed in"
+msgstr ""
+
+#: template-jobs/misc/login.php:40
+msgid "Forgot Password"
+msgstr ""
+
+#: template-jobs/misc/login.php:40
+msgid "Lost Your Password?"
+msgstr ""
+
+#: template-jobs/misc/login.php:55
+msgid "Reset Password"
+msgstr ""
+
+#: template-jobs/misc/login.php:56
+msgid "Please Enter Username or Email"
+msgstr ""
+
+#: template-jobs/misc/login.php:61
+msgid "Username or E-mail"
+msgstr ""
+
+#: template-jobs/misc/login.php:69
+msgid "Get New Password"
+msgstr ""
+
+#: template-jobs/misc/login.php:70 woocommerce/myaccount/my-orders.php:77
+msgid "Cancel"
+msgstr ""
+
+#: template-jobs/misc/login.php:74
+msgid "Back To Login"
+msgstr ""
+
+#: template-jobs/misc/my-candidates-alerts.php:10
+msgid "Candidate Alerts"
+msgstr ""
+
+#: template-jobs/misc/my-candidates-alerts.php:62
+#: template-jobs/misc/my-jobs-alerts.php:60
+msgid "Alert Query"
+msgstr ""
+
+#: template-jobs/misc/my-candidates-alerts.php:63
+#: template-jobs/misc/my-jobs-alerts.php:61
+msgid "Number Jobs"
+msgstr ""
+
+#: template-jobs/misc/my-candidates-alerts.php:64
+#: template-jobs/misc/my-jobs-alerts.php:62
+msgid "Times"
+msgstr ""
+
+#: template-jobs/misc/my-candidates-alerts.php:65
+#: template-jobs/misc/my-jobs-alerts.php:63
+#: template-jobs/submission/my-jobs.php:103
+msgid "Actions"
+msgstr ""
+
+#: template-jobs/misc/my-candidates-alerts.php:134
+#: template-jobs/misc/my-jobs-alerts.php:126
+msgid "Jobs found %d"
+msgstr ""
+
+#: template-jobs/misc/my-candidates-alerts.php:163
+msgid "No candidate alert found."
+msgstr ""
+
+#: template-jobs/misc/my-following-employers.php:10
+msgid "Following Employers"
+msgstr ""
+
+#: template-jobs/misc/my-following-employers.php:70
+msgid "No following employer found."
+msgstr ""
+
+#: template-jobs/misc/my-jobs-alerts.php:10
+msgid "Job Alerts"
+msgstr ""
+
+#: template-jobs/misc/my-jobs-alerts.php:154
+msgid "No job alert found."
+msgstr ""
+
+#: template-jobs/misc/password-form.php:8
+#: template-jobs/misc/password-form.php:25
+msgid "Change Password"
+msgstr ""
+
+#: template-jobs/misc/password-form.php:11
+msgid "Old password"
+msgstr ""
+
+#: template-jobs/misc/password-form.php:16
+msgid "New password"
+msgstr ""
+
+#: template-jobs/misc/password-form.php:21
+msgid "Retype password"
+msgstr ""
+
+#: template-jobs/misc/profile-form.php:8
+msgid "Edit Profile"
+msgstr ""
+
+#: template-jobs/misc/profile-form.php:33
+msgid "Save Profile"
+msgstr ""
+
+#: template-jobs/misc/register.php:16
+msgid "Candidate"
+msgstr ""
+
+#: template-jobs/misc/register.php:17
+msgid "Employer"
+msgstr ""
+
+#: template-jobs/misc/register.php:21 template-jobs/misc/register.php:22
+msgid "Username *"
+msgstr ""
+
+#: template-jobs/misc/register.php:25 template-jobs/misc/register.php:26
+msgid "Email *"
+msgstr ""
+
+#: template-jobs/misc/register.php:29 template-jobs/misc/register.php:30
+msgid "Password *"
+msgstr ""
+
+#: template-jobs/misc/register.php:33 template-jobs/misc/register.php:34
+msgid "Confirm Password *"
+msgstr ""
+
+#: template-jobs/misc/register.php:38 template-jobs/misc/register.php:39
+msgid "Company Name"
+msgstr ""
+
+#: template-jobs/misc/register.php:43 template-jobs/misc/register.php:44
+#: widgets/candidate-contact-form.php:53 widgets/employer-contact-form.php:54
+msgid "Phone"
+msgstr ""
+
+#: template-jobs/misc/register.php:62 template-jobs/misc/register.php:88
+msgid "Select Category"
+msgstr ""
+
+#: template-jobs/misc/register.php:102
+msgid "Register now"
+msgstr ""
+
+#: template-jobs/misc/resume-form.php:8
+msgid "Edit Resume"
+msgstr ""
+
+#: template-jobs/misc/resume-form.php:14
+msgid "Your resume has to be confirmed by an administrator before publish."
+msgstr ""
+
+#: template-jobs/misc/resume-form.php:19
+msgid "Your resume has expired."
+msgstr ""
+
+#: template-jobs/misc/resume-form.php:49
+msgid "Save Resume"
+msgstr ""
+
+#: template-jobs/single-candidate/award.php:13
+msgid "Awards"
+msgstr ""
+
+#: template-jobs/single-candidate/education.php:13
+msgid "Education"
+msgstr ""
+
+#: template-jobs/single-candidate/experience.php:13
+msgid "Work &amp; Experience"
+msgstr ""
+
+#: template-jobs/single-candidate/portfolios.php:13
+msgid "Portfolio"
+msgstr ""
+
+#: template-jobs/single-candidate/releated.php:40
+msgid "Related Candidates"
+msgstr ""
+
+#: template-jobs/single-candidate/review.php:23
+#: template-jobs/single-employer/review.php:25
+#: woocommerce/single-product/review.php:36
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: template-jobs/single-candidate/review.php:31
+#: template-jobs/single-employer/review.php:34
+#: woocommerce/single-product/review.php:28
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: template-jobs/single-candidate/reviews.php:39
+#: template-jobs/single-employer/reviews.php:38
+#: woocommerce/single-product-reviews.php:64
+msgid "Add a review"
+msgstr ""
+
+#: template-jobs/single-candidate/reviews.php:39
+#: template-jobs/single-employer/reviews.php:38
+#: woocommerce/single-product-reviews.php:64
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: template-jobs/single-candidate/reviews.php:40
+#: template-jobs/single-employer/reviews.php:39
+#: woocommerce/single-product-reviews.php:65
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: template-jobs/single-candidate/reviews.php:45
+#: template-jobs/single-employer/reviews.php:44
+msgid "Your Name"
+msgstr ""
+
+#: template-jobs/single-candidate/reviews.php:47
+#: template-jobs/single-employer/reviews.php:46
+msgid "your@mail.com"
+msgstr ""
+
+#: template-jobs/single-candidate/reviews.php:49
+#: template-jobs/single-employer/reviews.php:48
+msgid "Submit Review"
+msgstr ""
+
+#: template-jobs/single-candidate/reviews.php:54
+#: template-jobs/single-employer/reviews.php:53
+msgid "You must be <a href=\"\">logged in</a> to post a review."
+msgstr ""
+
+#: template-jobs/single-candidate/reviews.php:56
+#: template-jobs/single-employer/reviews.php:55
+msgid "Write Comment"
+msgstr ""
+
+#: template-jobs/single-candidate/video.php:13
+#: template-jobs/single-employer/video.php:13
+msgid "Video"
+msgstr ""
+
+#: template-jobs/single-candidate.php:28 template-jobs/single-employer.php:27
+msgid "The page is restricted only for register user."
+msgstr ""
+
+#: template-jobs/single-candidate.php:29 template-jobs/single-employer.php:28
+msgid "You need login to view this page"
+msgstr ""
+
+#: template-jobs/single-candidate.php:34
+msgid "The page is restricted only for employers view his applicants."
+msgstr ""
+
+#: template-jobs/single-candidate.php:39
+msgid "The page is restricted only for employers."
+msgstr ""
+
+#: template-jobs/single-employer/detail.php:24
+msgid "Company Information"
+msgstr ""
+
+#: template-jobs/single-employer/detail.php:69
+msgid "Post jobs"
+msgstr ""
+
+#: template-jobs/single-employer/detail.php:93 widgets/employer-info.php:104
+msgid "Categories"
+msgstr ""
+
+#: template-jobs/single-employer/detail.php:109 widgets/employer-info.php:120
+msgid "Since"
+msgstr ""
+
+#: template-jobs/single-employer/header.php:38
+#: template-jobs/single-employer/header.php:48
+msgid "Add review"
+msgstr ""
+
+#: template-jobs/single-employer/members.php:12
+msgid "Team Member"
+msgstr ""
+
+#: template-jobs/single-employer/members.php:50
+msgid "Experience: "
+msgstr ""
+
+#: template-jobs/single-employer/open-jobs.php:21
+msgid "Open Position"
+msgstr ""
+
+#: template-jobs/single-employer/profile-photos.php:13
+msgid "Office Photos"
+msgstr ""
+
+#: template-jobs/single-employer.php:33
+msgid "The page is restricted only for candidates view his applicants."
+msgstr ""
+
+#: template-jobs/single-employer.php:38
+msgid "The page is restricted only for candidates."
+msgstr ""
+
+#: template-jobs/single-job_listing/releated.php:52
+msgid "Related Jobs"
+msgstr ""
+
+#: template-jobs/submission/job-submit-preview.php:28
+msgid "Submit Job"
+msgstr ""
+
+#: template-jobs/submission/job-submit-preview.php:29
+msgid "Edit Job"
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:15
+msgid "Manage Jobs"
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:99
+msgid "Logo"
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:100
+msgid "Job Title"
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:101
+msgid "Applicants"
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:138
+msgid "Created: "
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:142
+msgid "Expiry: "
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:160
+msgid "<span class=\"number\">%d</span> Applicant(s)"
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:194
+msgid "Relist"
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:212
+msgid "Continue"
+msgstr ""
+
+#: template-jobs/submission/my-jobs.php:243
+msgid "You don't have any jobs, yet. Start by creating new one."
+msgstr ""
+
+#: template-jobs/widgets/filter-fields/salary_horizontal_range_slider.php:22
+msgid "Filter by salary type"
+msgstr ""
+
+#: template-paid-listings/choose-package-form.php:27
+msgid "Choose a package"
+msgstr ""
+
+#: template-paid-listings/choose-package-form.php:35
+msgid "Sorry, you can't post a listing."
+msgstr ""
+
+#: template-paid-listings/cv-packages.php:8
+msgid "Buy any cv package to get started"
+msgstr ""
+
+#: template-paid-listings/packages.php:8
+msgid "Packages"
+msgstr ""
+
+#: template-paid-listings/packages.php:42
+msgid "Get Started"
+msgstr ""
+
+#: template-paid-listings/resume-packages.php:8
+msgid "Resume Packages"
+msgstr ""
+
+#: template-paid-listings/user-packages.php:7
+msgid "Your Packages"
+msgstr ""
+
+#: template-paid-listings/user-packages.php:22
+msgid "%s job posted out of %d"
+msgid_plural "%s jobs posted out of %d"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-paid-listings/user-packages.php:24
+msgid "%s job posted"
+msgid_plural "%s jobs posted"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-paid-listings/user-packages.php:28
+msgid "listed for %s day"
+msgid_plural "listed for %s days"
+msgstr[0] ""
+msgstr[1] ""
+
+#: template-paid-listings/user-packages.php:38
+msgid "Add Listing"
+msgstr ""
+
+#: template-parts/offcanvas-main-menu.php:13
+msgid "View Your Wishlist"
+msgstr ""
+
+#: template-parts/offcanvas-main-menu.php:46
+msgid "all Departments"
+msgstr ""
+
+#: template-parts/posts-releated.php:32
+msgid "Related Posts"
+msgstr ""
+
+#: template-parts/sharebox-job.php:15 template-parts/sharebox.php:8
+msgid "Share Link:"
+msgstr ""
+
+#: template-posts/content-none.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: template-posts/content-none.php:15
+msgid "Try again please, use the search form below."
+msgstr ""
+
+#: template-posts/loop/inner-grid.php:19 template-posts/single/inner.php:28
+msgid "By"
+msgstr ""
+
+#: widgets/candidate-contact-form.php:48 widgets/employer-contact-form.php:49
+msgid "E-mail"
+msgstr ""
+
+#: widgets/candidate-contact-form.php:66
+msgid "Send Now"
+msgstr ""
+
+#: widgets/candidate-contact-form.php:80
+msgid "You have no package. To contact \"%s\" you need <a href=\"%s\" class=\"text-theme\">click here</a> to subscribe a package."
+msgstr ""
+
+#: widgets/candidate-info.php:33 widgets/job-info.php:29
+msgid "Offered Salary"
+msgstr ""
+
+#: widgets/candidate-info.php:80 widgets/employer-info.php:131
+msgid "Social Profiles:"
+msgstr ""
+
+#: widgets/employer-info.php:80
+msgid "Posted jobs"
+msgstr ""
+
+#: widgets/job-also-viewed.php:51
+msgid "<a class=\"text-theme\" href=\"%s\">%s</a>"
+msgstr ""
+
+#: widgets/job-buttons.php:31
+msgid "OR apply with"
+msgstr ""
+
+#: widgets/job-employer-info.php:40
+msgid "View all jobs"
+msgstr ""
+
+#: widgets/job-employer-info.php:41
+msgid "Company Profile"
+msgstr ""
+
+#: widgets/job-filter-horizontal.php:50
+msgid "Advance"
+msgstr ""
+
+#: widgets/job-statistics.php:25
+msgid "<span class=\"number\">%s</span> ago"
+msgstr ""
+
+#: widgets/job-statistics.php:36
+msgid "<span class=\"number\">%d</span> View"
+msgid_plural "<span class=\"number\">%d</span> Views"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/job-statistics.php:47
+msgid "<span class=\"number\">%d</span> Applicant"
+msgid_plural "<span class=\"number\">%d</span> Applicants"
+msgstr[0] ""
+msgstr[1] ""
+
+#: widgets/user-short-profile.php:61
+msgid "Skills Percentage:"
+msgstr ""
+
+#: widgets/user-short-profile.php:69
+msgid "Put value for %s field to increase your skill up to <strong class=\"text-info\">\"%s\"</strong>"
+msgstr ""
+
+#: widgets/user-short-profile.php:71
+msgid "Put value for resume, profile fields to increase your skill up to <strong class=\"text-info\">\"%s\"</strong>"
+msgstr ""
+
+#: woocommerce/cart/cart.php:30
+msgid "Product Name"
+msgstr ""
+
+#: woocommerce/cart/cart.php:32 woocommerce/cart/cart.php:89
+#: woocommerce/global/quantity-input.php:31
+msgid "Quantity"
+msgstr ""
+
+#: woocommerce/cart/cart.php:33 woocommerce/cart/cart.php:111
+#: woocommerce/cart/mini-cart.php:94 woocommerce/myaccount/my-orders.php:37
+#: woocommerce/myaccount/my-orders.php:60
+msgid "Total"
+msgstr ""
+
+#: woocommerce/cart/cart.php:63
+msgid "Product"
+msgstr ""
+
+#: woocommerce/cart/cart.php:78
+msgid "Available on backorder"
+msgstr ""
+
+#: woocommerce/cart/cart.php:122 woocommerce/cart/mini-cart.php:58
+msgid "Remove this item"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Coupon:"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Coupon code"
+msgstr ""
+
+#: woocommerce/cart/cart.php:141
+msgid "Apply coupon"
+msgstr ""
+
+#: woocommerce/cart/cart.php:146
+msgid "Update cart"
+msgstr ""
+
+#: woocommerce/cart/cross-sells.php:34
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-button.php:4
+msgid "View your shopping cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart-content.php:5
+msgid "My Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:85
+msgid "Currently Empty"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:87
+msgid "Continue shopping"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:99
+msgid "View Cart"
+msgstr ""
+
+#: woocommerce/cart/mini-cart.php:100
+msgid "Checkout"
+msgstr ""
+
+#: woocommerce/cart/proceed-to-checkout-button.php:26
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:25
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:29
+msgid "Billing details"
+msgstr ""
+
+#: woocommerce/checkout/form-billing.php:54
+msgid "Create an account?"
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:21
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: woocommerce/checkout/form-checkout.php:51
+msgid "Your order"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:26
+msgid "Ship to a different address?"
+msgstr ""
+
+#: woocommerce/checkout/form-shipping.php:56
+msgid "Additional Information"
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Sorry, it seems that there are no available payment methods for your state. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:35
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#. translators: $1 and $2 opening and closing emphasis tags respectively
+
+#: woocommerce/checkout/payment.php:44
+msgid "Since your browser does not support JavaScript, or it is disabled, please ensure you click the %1$sUpdate Totals%2$s button before placing your order. You may be charged more than the amount stated above if you fail to do so."
+msgstr ""
+
+#: woocommerce/checkout/payment.php:46
+msgid "Update totals"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:25
+msgid "Unfortunately your order cannot be processed as the originating bank/merchant has declined your transaction. Please attempt your purchase again."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:28 woocommerce/myaccount/my-orders.php:70
+msgid "Pay"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:36 woocommerce/checkout/thankyou.php:74
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:49
+msgid "Email:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:54
+msgid "Total:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:59
+msgid "Payment Method:"
+msgstr ""
+
+#: woocommerce/checkout/thankyou.php:78
+msgid "COUNTINUE SHOPPING"
+msgstr ""
+
+#. translators: %s: Quantity.
+
+#: woocommerce/global/quantity-input.php:28
+msgid "%s quantity"
+msgstr ""
+
+#: woocommerce/global/quantity-input.php:42
+msgctxt "Product quantity input tooltip"
+msgid "Qty"
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:42
+msgid "Sorry, it seems that there are no payment methods which support adding a new payment method. Please contact us if you require assistance or wish to make alternate arrangements."
+msgstr ""
+
+#: woocommerce/myaccount/form-add-payment-method.php:50
+msgid "Add Payment Method"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:21
+msgid "First name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:25
+msgid "Last name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:30
+msgid "Display name"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:31
+msgid "This will be how your name will be displayed in the account section and in reviews"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:34
+#: woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:40
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:44
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:48
+msgid "Confirm New Password"
+msgstr ""
+
+#: woocommerce/myaccount/form-edit-account.php:56
+msgid "Save changes"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:38
+msgid "Username or email address"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:50
+msgid "Remember me"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:53
+msgid "Lost your password?"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:56
+msgid "sign in"
+msgstr ""
+
+#: woocommerce/myaccount/form-login.php:75
+msgid "Username"
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:25
+msgid "Lost your password? Please enter your username or email address. You will receive a link to create a new password via email."
+msgstr ""
+
+#: woocommerce/myaccount/form-lost-password.php:38
+msgid "Reset password"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:19
+#: woocommerce/myaccount/my-address.php:25
+msgid "Billing Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:20
+msgid "Shipping Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: woocommerce/myaccount/my-address.php:67
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:34
+msgid "Order"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:49
+msgid "Order Number"
+msgstr ""
+
+#: woocommerce/myaccount/my-orders.php:61
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/countdown.php:9
+msgid "Start for you in: "
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "SKU:"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:35
+msgid "N/A"
+msgstr ""
+
+#: woocommerce/single-product/meta.php:39
+msgid "Category:"
+msgid_plural "Categories:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/meta.php:41
+msgid "<span class=\"sub_title\">Tag:</span>"
+msgid_plural "<span class=\"sub_title\">Tags:</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product/product-image-carousel.php:42
+#: woocommerce/single-product/product-image.php:42
+msgid "Watch video"
+msgstr ""
+
+#: woocommerce/single-product/product-image-carousel.php:56
+#: woocommerce/single-product/product-image-carousel.php:83
+#: woocommerce/single-product/product-image.php:56
+#: woocommerce/single-product/product-image.php:77
+msgid "Awaiting product image"
+msgstr ""
+
+#: woocommerce/single-product/related.php:45
+msgid "Related Products"
+msgstr ""
+
+#: woocommerce/single-product/review.php:29
+msgid "out of 5"
+msgstr ""
+
+#: woocommerce/single-product/review.php:42
+msgid "verified owner"
+msgstr ""
+
+#: woocommerce/single-product/up-sells.php:42
+msgid "Up-Sells Products"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:50
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:74
+msgid "submit review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:80
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:85
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:86
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:87
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:104
+msgid "Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: wp-private-message/dashboard.php:21
+msgid "Messages"
+msgstr ""
+
+#: wp-private-message/dashboard.php:24
+msgid "Show messages box"
+msgstr ""
+
+#: wp-private-message/dashboard.php:33
+msgid "Search Contacts..."
+msgstr ""
+
+#: wp-private-message/dashboard.php:45
+msgid "Read"
+msgstr ""
+
+#: wp-private-message/dashboard.php:46
+msgid "Unread"
+msgstr ""
+
+#: wp-private-message/dashboard.php:93
+msgid "No message found"
+msgstr ""
+
+#: wp-private-message/message-item.php:37
+#: wp-private-message/message-item.php:40
+msgid "%s"
+msgstr ""
+
+#: wp-private-message/reply-item.php:23
+msgid "Today"
+msgstr ""
+
+#: wp-private-message/reply-item.php:25
+msgid "Yesterday"
+msgstr ""
+
+#: wp-private-message/reply-message-form.php:11
+msgid "Write your message..."
+msgstr ""
+
+#: wp-private-message/reply-section.php:38
+msgid "Delete Conversation"
+msgstr ""
+#. Theme Name of the plugin/theme
+msgid "Workup"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://apusthemes.com/workup"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Workup is clean theme, it's used Apus Framework."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "ApusWP"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://apusthemes.com/"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "404 Page"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Candidates Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Dashboard Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Employers Template"
+msgstr ""
+
+#. Template Name of the plugin/theme
+msgid "Jobs Template"
+msgstr ""

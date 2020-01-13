@@ -1,0 +1,64 @@
+2020-01-05T12:54:01+00:00 CRITICAL Uncaught Error: Call to a member function get_cart() on null in /var/www/html/wp-content/plugins/wp-job-board-wc-paid-listings/inc/class-wc-cart.php:52
+Stack trace:
+#0 /var/www/html/wp-content/plugins/wp-job-board-wc-paid-listings/inc/class-wc-cart.php(85): WP_Job_Board_Wc_Paid_Listings_Cart::check_cart_has_job_package()
+#1 /var/www/html/wp-includes/class-wp-hook.php(290): WP_Job_Board_Wc_Paid_Listings_Cart::guest_checkout('yes')
+#2 /var/www/html/wp-includes/plugin.php(206): WP_Hook->apply_filters('yes', Array)
+#3 /var/www/html/wp-includes/option.php(152): apply_filters('option_woocomme...', 'yes', 'woocommerce_ena...')
+#4 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-tracker.php(451): get_option('woocommerce_ena...')
+#5 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-tracker.php(133): WC_Tracker::get_all_woocommerce_options_values()
+#6 /var/www/html/wp-content/plugins/woocommerce/includes/class-wc-tracker.php(62): WC_Tracker::get_tracking_data()
+#7 /var/www/html/wp-includes/cl in /var/www/html/wp-content/plugins/wp-job-board-wc-paid-listings/inc/class-wc-cart.php on line 52
+
+2020-01-05T17:34:09+00:00 CRITICAL Uncaught Error: Call to undefined function testimonial_rotator_error() in /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php:279
+Stack trace:
+#0 /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php(261): testimonial_rotator(Array)
+#1 /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php(220): get_testimonial_rotator(Array)
+#2 /var/www/html/wp-includes/shortcodes.php(325): testimonial_rotator_shortcode(Array, '', 'testimonial_rot...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(testim...', 'do_shortcode_ta...', '<h2>Empowering ...')
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(372): do_shortcode('<h2>Empowering ...')
+#6 /var/www/html/wp-content/plugins/elementor/includes/widgets/text-editor.php(408): Elementor\Widget_Base->parse_text_editor('<h2>Empowering ...')
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/ in /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php on line 279
+
+2020-01-05T17:34:13+00:00 CRITICAL Uncaught Error: Call to undefined function testimonial_rotator_error() in /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php:279
+Stack trace:
+#0 /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php(261): testimonial_rotator(Array)
+#1 /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php(220): get_testimonial_rotator(Array)
+#2 /var/www/html/wp-includes/shortcodes.php(325): testimonial_rotator_shortcode(Array, '', 'testimonial_rot...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(testim...', 'do_shortcode_ta...', '<h2>Empowering ...')
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(372): do_shortcode('<h2>Empowering ...')
+#6 /var/www/html/wp-content/plugins/elementor/includes/widgets/text-editor.php(408): Elementor\Widget_Base->parse_text_editor('<h2>Empowering ...')
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/ in /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php on line 279
+
+2020-01-05T17:35:37+00:00 CRITICAL Uncaught Error: Call to undefined function testimonial_rotator_error() in /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php:279
+Stack trace:
+#0 /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php(261): testimonial_rotator(Array)
+#1 /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php(220): get_testimonial_rotator(Array)
+#2 /var/www/html/wp-includes/shortcodes.php(325): testimonial_rotator_shortcode(Array, '', 'testimonial_rot...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(testim...', 'do_shortcode_ta...', '<h2>Empowering ...')
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(372): do_shortcode('<h2>Empowering ...')
+#6 /var/www/html/wp-content/plugins/elementor/includes/widgets/text-editor.php(408): Elementor\Widget_Base->parse_text_editor('<h2>Empowering ...')
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/ in /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php on line 279
+
+2020-01-05T17:55:37+00:00 CRITICAL Uncaught Error: Call to undefined function testimonial_rotator_error() in /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php:279
+Stack trace:
+#0 /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php(261): testimonial_rotator(Array)
+#1 /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php(220): get_testimonial_rotator(Array)
+#2 /var/www/html/wp-includes/shortcodes.php(325): testimonial_rotator_shortcode(Array, '', 'testimonial_rot...')
+#3 [internal function]: do_shortcode_tag(Array)
+#4 /var/www/html/wp-includes/shortcodes.php(199): preg_replace_callback('/\\[(\\[?)(testim...', 'do_shortcode_ta...', '<h2>Empowering ...')
+#5 /var/www/html/wp-content/plugins/elementor/includes/base/widget-base.php(372): do_shortcode('<h2>Empowering ...')
+#6 /var/www/html/wp-content/plugins/elementor/includes/widgets/text-editor.php(408): Elementor\Widget_Base->parse_text_editor('<h2>Empowering ...')
+#7 /var/www/html/wp-content/plugins/elementor/includes/base/ in /var/www/html/wp-content/plugins/testimonial-rotator/testimonial-rotator.php on line 279
+
+2020-01-05T18:22:26+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Job_Board_Candidate_Alert::get_email_frequency() in /var/www/html/wp-content/plugins/wp-job-board/includes/class-candidate-alert.php:27
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(288): WP_Job_Board_Candidate_Alert::send_candidate_alert_notice()
+#1 /var/www/html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-cron.php(138): do_action_ref_array('wp_job_board_em...', Array)
+#4 {main}
+  thrown in /var/www/html/wp-content/plugins/wp-job-board/includes/class-candidate-alert.php on line 27
+

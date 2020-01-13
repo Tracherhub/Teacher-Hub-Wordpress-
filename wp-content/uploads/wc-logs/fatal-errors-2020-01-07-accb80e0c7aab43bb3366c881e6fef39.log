@@ -1,0 +1,9 @@
+2020-01-07T18:27:49+00:00 CRITICAL Uncaught Error: Call to undefined method WP_Job_Board_Candidate_Alert::get_email_frequency() in /var/www/html/wp-content/plugins/wp-job-board/includes/class-candidate-alert.php:27
+Stack trace:
+#0 /var/www/html/wp-includes/class-wp-hook.php(288): WP_Job_Board_Candidate_Alert::send_candidate_alert_notice()
+#1 /var/www/html/wp-includes/class-wp-hook.php(312): WP_Hook->apply_filters(NULL, Array)
+#2 /var/www/html/wp-includes/plugin.php(544): WP_Hook->do_action(Array)
+#3 /var/www/html/wp-cron.php(138): do_action_ref_array('wp_job_board_em...', Array)
+#4 {main}
+  thrown in /var/www/html/wp-content/plugins/wp-job-board/includes/class-candidate-alert.php on line 27
+

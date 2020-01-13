@@ -1,0 +1,467 @@
+/*
+*  Responsive
+*/
+.list-product-archive {
+  @media(min-width: 1500px){
+    .col-lg-cs-5,
+    .col-md-cs-5{
+        width: 20%;
+    }
+  }  
+}
+@media (min-width: 992px){
+    .md-clearfix {
+        clear: both;
+    }
+}
+@media (min-width: 768px) and (max-width: 991px){
+    .sm-clearfix{
+        clear: both;
+    }
+}
+@media (min-width: 1px) and (max-width: 767px){
+    .xs-clearfix{
+        clear: both;
+    }
+}
+@media (max-width: 1199px){
+    .sidebar-job{
+        .job-detail-buttons{
+            .btn{
+                padding:13px 16px;
+            }
+        }
+    }
+    // dashboard
+    .statistics .inner-header{
+        margin-bottom: 15px;
+    }
+    .btn-action-icon{
+        @include size(30px,30px);
+        line-height: 30px;
+    }
+    .applicant-action-button a{
+        margin:0;
+    }
+    .job-table .job-table-info-content-date-expiry > *{
+        display: block;
+        margin:0 0 5px;
+    }
+}
+@media (max-width: $screen-sm-max){
+    // logo 991px  
+    //----------------------
+    .comment-list .children{
+        @include rtl-padding-left(20px);
+    }
+    .widget-features-box .description {
+        font-size: $font-size-base;
+    }
+    .job-list-v2{
+        .left-inner{
+            width:30%;
+        }
+        .job-type{
+            display: none;
+        }
+        .job-location{
+            width:20%;
+        }
+    }
+    .widget-features-box.style2 .title{
+        font-size: 20px;
+    }
+    // fix for sidebar candidate
+    .employer-detail-detail .list, .job-detail-detail .list{
+        overflow: hidden;
+        clear: both;
+        li{
+            width:50%;
+            @include rtl-float-left();
+            &:nth-child(2n + 1){
+                clear: both;
+            }
+        }
+    }
+    // style for job
+    .widget-filter-job-top .advance-fields{
+        padding-top:15px;
+    }
+    .job-single-v1{
+        .sidebar-job{
+            .widget_apus_job_buttons{
+                display: none;
+            }
+        }
+    }
+    .job-detail-header.v1{
+        .job-location {
+            @include rtl-margin-right(0);
+        }
+        .employer-logo-wrapper{
+            width:100%;
+            position:static;
+        }
+        .action{
+            @include rtl-text-align-right();
+            .deadline-time{
+                text-align: inherit;
+            }
+        }
+    }
+    .content-job-detail-2{
+        .sidebar-job .job-detail-buttons{
+            text-align: center;
+        }
+    }
+    // dashboard
+    .inner-dashboard {
+        .mobile-sidebar-btn{
+            @include rtl-margin-left(15px);
+        }
+    }
+    .category-banner-inner .title{
+        font-size: 16px;
+    }
+}
+@media (max-width:767px) {
+    // fix gutter fox mobile
+    .slick-carousel{
+        margin-left: -8px;
+        margin-right: -8px;
+        .slick-slide{
+            padding-left: 8px;
+            padding-right: 8px;
+        }
+        .slick-arrow{
+            @include opacity(0.8);
+        }
+        &:hover{
+            .slick-arrow{
+                @include opacity(1);
+            }  
+        }
+    }
+    // tab for product
+    .nav-tabs{
+        overflow-x: auto;
+        white-space: nowrap;
+        overflow-y:hidden;
+        li{
+            float: none;
+            display: inline-block;
+            margin-bottom: 10px;
+        }
+    }
+    .widget{
+        margin-bottom: 20px;
+    } 
+    // blog
+    .select2-wrapper .select2-container--default .select2-selection--single, 
+    .my-jobs-ordering .select2-container--default .select2-selection--single, 
+    .jobs-ordering .select2-container--default .select2-selection--single{
+        height: 42px;
+        line-height: 42px;
+        min-width: 140px;
+        .select2-selection__rendered{
+            line-height: 40px;
+        }
+        .select2-selection__arrow{
+            top:7px;
+        }
+    }
+    // fix for search
+    #commentform{
+        .yourview{
+            margin-bottom: 0;
+        }
+    }
+    // fix employer
+    .cmb-form .cmb-row[data-fieldtype="wp_job_board_file"] .upload-file-btn{
+        padding: 8px 12px;
+        font-size: 14px;
+    }
+    .cmb-type-group .cmb-th{
+        &,
+        + .cmb-td{
+            width:100% !important;
+        }
+        &{
+            padding:0 0 5px !important;
+        }
+    }
+    .cmb-form .cmb-type-group .cmb-repeat-group-field{
+        padding:0;
+    }
+    .cmb-form .select2-container,
+    .cmb-form .select2-container .select2-selection--single,
+    .cmb-form select, .cmb-form input[type="text"], .cmb-form input[type="number"]{
+        height: 45px;
+    }
+    .cmb-form .select2-container .select2-selection--single .select2-selection__rendered{
+        line-height: 32px;
+    }
+    .cmb-form .select2-container .select2-selection--single .select2-selection__arrow{
+        top: 9px;
+    }
+    .woocommerce-MyAccount-navigation{
+        > ul{
+            overflow-x: auto;
+            display: flex;
+            -webkit-display: flex;
+            padding:0 0 5px;
+            li{
+                white-space: nowrap;
+            }
+        }
+    }
+    // widget 
+    .widget-achievements .title{
+        font-size: 20px;
+    }
+    // widget tab job
+    .widget-nav-menu .widget-title{
+        margin-bottom: 15px;
+    }
+    // search for jobs
+    .search-form-inner{
+        > div{
+            width: 100% !important;
+            margin-bottom: 10px !important;
+            border:0 !important;
+            &:last-child{
+                margin-bottom: 0 !important;
+            }
+        }
+    }
+    .form-search.layout2 .search-form-inner > div{
+        margin-bottom: 0 !important;
+        &.form-group-search{
+            width:40% !important;
+        }
+    }
+    // style for jobs
+    .job-list-v2 .inner{
+        .ali-right,
+        .left-inner{
+            width:100%;
+            clear: both;
+            overflow: hidden;
+        }
+        .job-location,
+        .job-salary {
+            width:50%;
+            @include rtl-float-left();
+        }
+        .left-inner{
+            padding-bottom: 10px;
+        }
+        .ali-right{
+            padding-top: 10px;
+            text-align: inherit;
+        }
+    }
+    .jobs-alert-ordering-wrapper .results-count,
+    .candidates-listing-wrapper .results-count{
+        margin-bottom: 10px;
+    }
+    .jobs-alert-ordering-wrapper{
+        display: table;
+        .jobs-ordering-wrapper{
+            @include rtl-float-left();
+            .label{
+                display: none;
+            }
+        }
+    }
+    .employer-list{
+        .bottom-moible{
+            padding-top:8px;
+        }
+    }
+    .employer-detail-header{
+        .employer-thumbnail{
+            @include size(110px,110px);
+            padding:5px;
+        }
+        .employer-detail-header-right{
+            padding-top:15px;
+        }
+    }
+    .job-list-v1{
+        .mobile-bottom{
+            margin-bottom: 5px;
+            .btn{
+                vertical-align: top;
+            }
+        }
+    }
+    .job-detail-header.v1{
+        .action{
+            text-align: inherit;
+        }
+        .employer-logo-wrapper{
+            margin-bottom: 20px;
+        }
+    }
+    .job-list-small{
+        position:relative;
+        .btn-remove-job-shortlist ,
+        .btn-remove-job-applied,
+        .wrapper-shortlist{
+            position:absolute;
+            top:10px;
+            z-index: 1;
+            @include rtl-right(10px);
+        }
+        .inner{
+            @include rtl-padding-right(20px);
+        }
+        .job-title{
+            font-size: 15px;
+        }
+        .btn-action-icon{
+            @include size(30px,30px);
+            line-height: 30px;
+        }
+    }
+    .applicants-job {
+        .bottom-info {
+            padding-top:10px;
+        }
+        .metas > div{
+            margin:0 0 5px;
+        }
+    }
+    .candidate-shortlist-wrapper{
+        .bottom-info{
+            margin-top: 10px;
+        }
+    }
+    .candidate-list .info > div{
+        display: block;
+        margin:0 0 5px;
+    }
+    .job-table .left-inner .employer-logo{
+        width: 70px;
+        height: 70px;
+    }
+    .job-table .job-table-info-content{
+        min-width: 200px;
+    }
+    // widget
+    .testimonials-item{
+        margin:10px 20px 30px;
+    }
+    // style for blog
+    .entry-title{
+        font-size: 16px;
+    }
+    .post-grid-v1{
+        .top-info .avatar-wrapper{
+            margin-top: -45px;
+            img{
+                @include size(50px,50px);
+                margin-bottom: 5px;
+            }
+        }
+        .top-info{
+            padding-bottom: 0;
+        }
+    }
+    .post-layout .top-image .categories-name{
+        font-size: 12px;
+        padding:2px 5px;
+    }
+    .job-submission-form-wrapper.box-dashboard-wrapper{
+        padding:0;
+    }
+    .post-list-item{
+        .top-info{
+            > div{
+                display: inline-block;
+            }
+        }
+        .description{
+            margin-bottom: 5px;
+        }
+    }
+    .breadscrumb-inner {
+        > .ali-right{
+            margin-top: 5px;
+        }
+    }
+}
+@media(max-width: 479px){
+    .woocommerce form .woocommerce-billing-fields .woocommerce-billing-fields__field-wrapper > * > *,
+    .woocommerce form .woocommerce-billing-fields .woocommerce-billing-fields__field-wrapper > * > .select2-container, .woocommerce form .woocommerce-billing-fields .woocommerce-billing-fields__field-wrapper > * > select, .woocommerce form .woocommerce-billing-fields .woocommerce-billing-fields__field-wrapper > * > input{
+        width: 100% !important;
+        margin: 0 0 5px !important;
+    }
+    // cart mobile
+    .apus-topcart .dropdown-menu{
+        padding:20px;
+        min-width: 280px;
+    }
+}
+@media(max-width: 400px){
+    .package-info-wrapper{
+        .lists-info{
+            li{
+                white-space: nowrap;
+            }
+        }
+    }
+    .alert-query .list li{
+        white-space: nowrap;
+    }
+}
+//--//
+// fix admin
+.admin-bar{
+    @media(min-width: 783px){
+        &.header_transparent{
+            #apus-header{
+                top: 32px;
+            }
+        } 
+    }
+    @media(max-width: 782px){
+        &.header_transparent{
+            #apus-header{
+                top: 46px;
+            }
+        }
+        .header-mobile{
+            top: 46px;
+            &.sticky-header{
+
+            }
+        }
+    }
+}
+@media(max-width: 782px){
+    .admin-bar{
+        .mm-menu{
+            top: 46px;
+        }
+    }
+}
+@media(min-width: 783px){
+    .admin-bar{
+        .header-mobile,
+        .mm-menu{
+            top: 32px;
+        }
+    }
+}
+@media(max-width: 600px){
+    .admin-bar{
+        .header-mobile.sticky-header{
+            top: 0;
+        }
+    }
+}
+#mm-blocker{
+    z-index: 9;
+}

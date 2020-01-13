@@ -1,0 +1,92 @@
+
+---Downloaded files---
+The import files for: Home 5 were successfully downloaded!
+Initial max execution time = 60
+Files info:
+Site URL = http://159.89.90.101
+Data file = /var/www/html/wp-content/themes/workup/inc/vendors/one-click-demo-import/default/dummy-data.xml
+Widget file = /var/www/html/wp-content/themes/workup/inc/vendors/one-click-demo-import/default/widgets.wie
+Customizer file = not defined!
+Redux files:
+workup_theme_options -> /var/www/html/wp-content/themes/workup/inc/vendors/one-click-demo-import/default/redux-options.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+---pt-ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Sidebar Default : 
+
+Search - No Title - Imported
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Imported
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+Jobs filter sidebar : 
+
+Job Alert Form - Job Alert - Imported
+Job Filter - No Title - Imported
+
+Jobs filter top sidebar : 
+
+Job Filter (Horizontal) - Jobs Filter Top  - Imported
+
+Job single sidebar : 
+
+Job Detail:: Apply/Shortlist Buttons - No Title - Imported
+Job Detail:: Information - Information - Imported
+Job Detail:: Social Share - Social Share - Imported
+Job Detail::  Maps - Job Location - Imported
+
+Employers filter sidebar : 
+
+Employer Filter - No Title - Imported
+
+Employer single sidebar : 
+
+Employer Detail:: Contact Form - Contact Form - Imported
+
+Candidates filter sidebar : 
+
+Candidate Alert Form - Candidate Alert - Imported
+Candidate Filter - No Title - Imported
+
+Candidate single sidebar : 
+
+Candidate Detail:: Candidate Buttons - No Title - Imported
+Candidate Detail:: Information - Information - Imported
+Candidate Detail:: Candidate CV - Download Resume - Imported
+Candidate Detail:: Contact Form - Contact %1s - Imported
+
+User Profile sidebar : 
+
+Apus User Short Profile - No Title - Imported
+
+Blog sidebar : 
+
+Search - Search - Imported
+Apus Recent Posts Widget - Latest Post - Imported
+Categories - Top Categories - Imported
+Tag Cloud - Tag Cloud - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: workup_theme_options finished successfully!
+
+---pt-ocdi/after_import---
+
